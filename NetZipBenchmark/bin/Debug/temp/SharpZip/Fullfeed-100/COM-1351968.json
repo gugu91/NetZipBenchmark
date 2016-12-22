@@ -1,0 +1,2632 @@
+{
+  "id": 1351968,
+  "language": "en-GB",
+  "name": "Fred Perry T-Shirt With Crew Neck In Black",
+  "description": "Cotton <a href=\" /Men/T-Shirts-Vests/Cat/pgecategory.aspx?cid=7616\"><strong>t-shirt</strong></a> by <a href=\" /Men/A-To-Z-Of-Brands/Fred-Perry/Cat/pgecategory.aspx?cid=4562\"><strong>Fred Perry</strong></a>. Featuring a classic crew neck, short sleeves and laurel wreath embroidery to the chest.",
+  "fabricConstruction": "Knitted",
+  "materials": "Body: 100% Cotton, Trim: 100% Polyester.",
+  "additionalInfo": "Body: 100% Cotton, Trim: 100% Polyester.\r\n\r\n<strong>SIZE & FIT</strong>\r\nModel's chest: 38”/97 cm\r\nModel is wearing: Size Medium \r\n\r\n",
+  "brand": {
+    "name": "Fred Perry",
+    "description": "Founded in the 1940’s by tennis superstar <a href=\"\" /Men/A-To-Z-Of-Brands/Fred-Perry/Cat/pgecategory.aspx?cid=4562\"\"><strong>Fred Perry</strong></a> and adopted by the Mod scene in the 60’s; the Fred Perry label is synonymous with producing the iconic pique cotton polo shirt which now sits alongside a full range of clothing and accessories that captures the labels signature preppy style.",
+    "brandId": 2943
+  },
+  "careInfo": "40 degree machine wash, do not use\r\nbleach, do not tumble dry, warm \r\niron, do not dry clean\r\n",
+  "productCode": "ZPRTS1351968",
+  "category": "T-Shirts",
+  "categoryId": 3888,
+  "department": "EU Heritage MB",
+  "departmentId": 3874,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1351969,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351969",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XS",
+          "schema": "UK",
+          "text": "Chest 86-91cm",
+          "sortOrder": 57
+        },
+        {
+          "name": "XS",
+          "schema": "US",
+          "text": "Chest 86-91cm",
+          "sortOrder": 57
+        },
+        {
+          "name": "XS",
+          "schema": "AU",
+          "text": "Chest 86-91cm",
+          "sortOrder": 57
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "UK",
+          "sortOrder": 157
+        },
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "US",
+          "sortOrder": 157
+        },
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "AU",
+          "sortOrder": 157
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351969",
+      "isAvailable": true
+    },
+    {
+      "id": 1351970,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351970",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "Chest 91-96cm",
+          "sortOrder": 58
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "Chest 91-96cm",
+          "sortOrder": 58
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "Chest 91-96cm",
+          "sortOrder": 58
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "UK",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "US",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "AU",
+          "sortOrder": 158
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351970",
+      "isAvailable": true
+    },
+    {
+      "id": 1351971,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351971",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "Chest 96-101cm",
+          "sortOrder": 59
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "Chest 96-101cm",
+          "sortOrder": 59
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "Chest 96-101cm",
+          "sortOrder": 59
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "UK",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "US",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "AU",
+          "sortOrder": 160
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351971",
+      "isAvailable": true
+    },
+    {
+      "id": 1351972,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351972",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "Chest 101-106cm",
+          "sortOrder": 60
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "Chest 101-106cm",
+          "sortOrder": 60
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "Chest 101-106cm",
+          "sortOrder": 60
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "US",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "AU",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351972",
+      "isAvailable": true
+    },
+    {
+      "id": 1351973,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351973",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "Chest 106-111cm",
+          "sortOrder": 61
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "Chest 106-111cm",
+          "sortOrder": 61
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "Chest 106-111cm",
+          "sortOrder": 61
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "UK",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "US",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "AU",
+          "sortOrder": 162
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351973",
+      "isAvailable": true
+    },
+    {
+      "id": 1351974,
+      "colourCode": "BK1",
+      "sku": "ZPRTS1351974",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "T-Shirts",
+          "nameId": 900,
+          "valueId": 1600,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Sid",
+          "nameId": 951,
+          "valueId": 2966,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.573Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT STYLE",
+          "value": "Not Applicable",
+          "nameId": 958,
+          "valueId": 3983,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Short",
+          "nameId": 961,
+          "valueId": 4069,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHIRT TYPE",
+          "value": "Not Applicable",
+          "nameId": 972,
+          "valueId": 4746,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Basic Logo",
+          "nameId": 993,
+          "valueId": 5620,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XXL",
+          "schema": "UK",
+          "text": "Chest 111-116cm",
+          "sortOrder": 62
+        },
+        {
+          "name": "XXL",
+          "schema": "US",
+          "text": "Chest 111-116cm",
+          "sortOrder": 62
+        },
+        {
+          "name": "XXL",
+          "schema": "AU",
+          "text": "Chest 111-116cm",
+          "sortOrder": 62
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "UK",
+          "sortOrder": 163
+        },
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "US",
+          "sortOrder": 163
+        },
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "AU",
+          "sortOrder": 163
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 225.0,
+      "isPrimary": true,
+      "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351974",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/8/6/9/1/1351968/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1351968-4-110614095536.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/fred-perry-t-shirt-with-crew-neck-in-black/1351968-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/fred-perry-t-shirt-with-crew-neck-in-black/1351968-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/fred-perry-t-shirt-with-crew-neck-in-black/1351968-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/fred-perry-t-shirt-with-crew-neck-in-black/1351968-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/fred-perry-t-shirt-with-crew-neck-in-black/1351968-catwalk-AVS",
+        "colourCode": "BK1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 7616
+    },
+    {
+      "id": 9171
+    },
+    {
+      "id": 13498
+    },
+    {
+      "id": 16851
+    },
+    {
+      "id": 20753
+    },
+    {
+      "id": 21235
+    }
+  ],
+  "navigateUrl": "/fred-perry/fred-perry-t-shirt-with-crew-neck-in-black/prd/1351968",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2015-01-09T03:30:08Z",
+  "supplierRef": "M6332-102",
+  "lastModified": "2016-10-16T17:36:36.6112136Z",
+  "lastTranslationModified": "2016-02-10T17:10:38.017Z",
+  "associatedProductGroups": [
+    {
+      "id": 1351968,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 30.0,
+      "text": "£30.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

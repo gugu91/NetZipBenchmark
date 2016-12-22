@@ -1,0 +1,871 @@
+{
+  "id": 1401742,
+  "language": "en-GB",
+  "name": "ASOS MADGE Suede Loafer",
+  "description": "<ul><li>Suede loafer. Featuring canvas, classic loafer styling, tassel to the front, and low stacked heel.</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Upper Suede Lining Textile /Leather Sole Resin",
+  "additionalInfo": "Upper: Suede \r\nLining & Sock: Textile /Leather \r\nSole: Resin",
+  "brand": {
+    "name": "ASOS",
+    "brandId": 53
+  },
+  "careInfo": "To maintain appearance and condition, avoid contact with liquids and treat with a suitable suede protector (not included)",
+  "productCode": "ZFOSH1401742",
+  "category": "Flat Shoes",
+  "categoryId": 696,
+  "department": "Footwear WO",
+  "departmentId": 55,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1401743,
+      "colourCode": "BL1",
+      "sku": "ZFOSH1401743",
+      "colour": "Blue",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Leather",
+          "nameId": 911,
+          "valueId": 2244,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "HEEL HEIGHT",
+          "value": "Flat",
+          "nameId": 929,
+          "valueId": 2272,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Chelsea rebellion",
+          "nameId": 950,
+          "valueId": 2917,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 3",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 3
+        },
+        {
+          "name": "US 5",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 3
+        },
+        {
+          "name": "EU 36",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 3
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1853,
+          "name": "(UK 3)",
+          "schema": "UK",
+          "sortOrder": 94
+        },
+        {
+          "id": 1853,
+          "name": "US 5",
+          "schema": "US",
+          "sortOrder": 94
+        },
+        {
+          "id": 1853,
+          "name": "AU 5",
+          "schema": "AU",
+          "sortOrder": 94
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 628.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401743",
+      "isAvailable": true
+    },
+    {
+      "id": 1401744,
+      "colourCode": "BL1",
+      "sku": "ZFOSH1401744",
+      "colour": "Blue",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Leather",
+          "nameId": 911,
+          "valueId": 2244,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "HEEL HEIGHT",
+          "value": "Flat",
+          "nameId": 929,
+          "valueId": 2272,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Chelsea rebellion",
+          "nameId": 950,
+          "valueId": 2917,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 4",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 5
+        },
+        {
+          "name": "US 6",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 5
+        },
+        {
+          "name": "EU 37",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 5
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2311,
+          "name": "(UK 4)",
+          "schema": "UK",
+          "sortOrder": 96
+        },
+        {
+          "id": 2311,
+          "name": "US 6",
+          "schema": "US",
+          "sortOrder": 96
+        },
+        {
+          "id": 2311,
+          "name": "AU 6",
+          "schema": "AU",
+          "sortOrder": 96
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 628.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401744",
+      "isAvailable": true
+    },
+    {
+      "id": 1401745,
+      "colourCode": "BL1",
+      "sku": "ZFOSH1401745",
+      "colour": "Blue",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Leather",
+          "nameId": 911,
+          "valueId": 2244,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "HEEL HEIGHT",
+          "value": "Flat",
+          "nameId": 929,
+          "valueId": 2272,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Chelsea rebellion",
+          "nameId": 950,
+          "valueId": 2917,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 5",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 7
+        },
+        {
+          "name": "US 7",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 7
+        },
+        {
+          "name": "EU 38",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 7
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2079,
+          "name": "(UK 5)",
+          "schema": "UK",
+          "sortOrder": 98
+        },
+        {
+          "id": 2079,
+          "name": "US 7",
+          "schema": "US",
+          "sortOrder": 98
+        },
+        {
+          "id": 2079,
+          "name": "AU 7",
+          "schema": "AU",
+          "sortOrder": 98
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 628.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401745",
+      "isAvailable": true
+    },
+    {
+      "id": 1401747,
+      "colourCode": "BL1",
+      "sku": "ZFOSH1401747",
+      "colour": "Blue",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Leather",
+          "nameId": 911,
+          "valueId": 2244,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "HEEL HEIGHT",
+          "value": "Flat",
+          "nameId": 929,
+          "valueId": 2272,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Chelsea rebellion",
+          "nameId": 950,
+          "valueId": 2917,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 7",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 11
+        },
+        {
+          "name": "US 9",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 11
+        },
+        {
+          "name": "EU 40",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 11
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1902,
+          "name": "(UK 7)",
+          "schema": "UK",
+          "sortOrder": 102
+        },
+        {
+          "id": 1902,
+          "name": "US 9",
+          "schema": "US",
+          "sortOrder": 102
+        },
+        {
+          "id": 1902,
+          "name": "AU 9",
+          "schema": "AU",
+          "sortOrder": 102
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 628.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401747",
+      "isAvailable": true
+    },
+    {
+      "id": 1401748,
+      "colourCode": "BL1",
+      "sku": "ZFOSH1401748",
+      "colour": "Blue",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Leather",
+          "nameId": 911,
+          "valueId": 2244,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "HEEL HEIGHT",
+          "value": "Flat",
+          "nameId": 929,
+          "valueId": 2272,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Chelsea rebellion",
+          "nameId": 950,
+          "valueId": 2917,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 8",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 13
+        },
+        {
+          "name": "US 10",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 13
+        },
+        {
+          "name": "EU 41",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 13
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2320,
+          "name": "(UK 8)",
+          "schema": "UK",
+          "sortOrder": 104
+        },
+        {
+          "id": 2320,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 104
+        },
+        {
+          "id": 2320,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 104
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "previous": {
+          "value": 30.0,
+          "text": "£30.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 628.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401748",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/blue/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/blue/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/blue/image1l.jpg",
+        "size": "l",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/blue/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/blue/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/2/4/7/1/1401742/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1401742-4-101022114241.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-madge-suede-loafer/1401742-1-blue",
+        "colourCode": "BL1",
+        "colour": "Blue",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-madge-suede-loafer/1401742-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-madge-suede-loafer/1401742-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-madge-suede-loafer/1401742-spinset",
+        "colourCode": "BL1"
+      }
+    ]
+  },
+  "webCategoryIds": [
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos/asos-madge-suede-loafer/prd/1401742",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2012-01-14T02:41:35Z",
+  "supplierRef": "kr5094",
+  "lastModified": "2016-10-14T16:15:26.8769873Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 30.0,
+      "text": "£30.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,8 @@
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\bin\Debug\NetZipBenchmark.exe.config
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\obj\Debug\NetZipBenchmark.csprojResolveAssemblyReference.cache
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\bin\Debug\AppData\Fullfeed-100.zip
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\bin\Debug\NetZipBenchmark.exe
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\bin\Debug\NetZipBenchmark.pdb
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\obj\Debug\NetZipBenchmark.exe
+C:\Source\GitHub\NetZipBenchmark\NetZipBenchmark\obj\Debug\NetZipBenchmark.pdb

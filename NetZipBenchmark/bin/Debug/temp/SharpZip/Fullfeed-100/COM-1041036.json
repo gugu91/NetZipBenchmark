@@ -1,0 +1,663 @@
+{
+  "id": 1041036,
+  "language": "en-GB",
+  "name": "Emporio Armani AR1400 Chronograph Black Ceramic Watch",
+  "description": "<a href=\"/Men/Watches/Cat/pgecategory.aspx?cid=5034\"><strong>Watch</strong></a> by <a href=\"/Men/A-To-Z-Of-Brands/Emporio-Armani/Cat/pgecategory.aspx?cid=7071\"><strong>Emporio Armani</strong></a><ul>    <li>Ceramic body</li>    <li>Three hand movement</li>    <li>Functional sub-dials</li>    <li>Date window</li>    <li>Roman numeral indices</li>    <li>Folding fastening</li>    <li>3ATM: water resistant to 30 metres (100 feet)</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Strap: 100% Ceramic.",
+  "additionalInfo": "Model: AR1400 <br>2 Year Supplier Warranty<br>Case: Ceramic<br>Strap: Ceramic<br>Fastening: Fold Over Clasp<br>Movement: Quartz<br><br>&nbsp;Please note: Bracelet watch straps can be adjusted by professionally removing individual links. Please note once links are removed, watches are non-returnable.",
+  "brand": {
+    "name": "Emporio Armani",
+    "description": "A diffusion line from iconic fashion house Armani, <a href=\"/Men/A-To-Z-Of-Brands/Emporio-Armani/Cat/pgecategory.aspx?cid=7071\"><strong>Emporio Armani</strong></a> offers timeless style with their collections of wearable classics. <a href=\"/Men/A-To-Z-Of-Brands/Emporio-Armani/Cat/pgecategory.aspx?cid=7071\"><strong>Emporio Armani</strong></a> pieces range from loungewear and underwear to watches, all of which channel the effortless style <a href=\"/Men/A-To-Z-Of-Brands/Emporio-Armani/Cat/pgecategory.aspx?cid=7071\"><strong>Emporio Armani</strong></a> is famed for.",
+    "brandId": 3060
+  },
+  "careInfo": "3ATM - Water resistant to 30 meters (100 feet). Will withstand splashes of water or rain but should not be worn while swimming or diving.",
+  "productCode": "XCMAG1041036",
+  "category": "Watches",
+  "categoryId": 2248,
+  "department": "Watches and Jewellery MB",
+  "departmentId": 136,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1041037,
+      "colourCode": "BK1",
+      "sku": "XCMAG1041037",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Watches",
+          "nameId": 900,
+          "valueId": 1624,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-mar",
+          "nameId": 944,
+          "valueId": 2651,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "One size",
+          "nameId": 956,
+          "valueId": 2677,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Electrical Equipment",
+          "nameId": 967,
+          "valueId": 3531,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Yes",
+          "nameId": 978,
+          "valueId": 3632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Fashion",
+          "nameId": 987,
+          "valueId": 3780,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 14",
+          "nameId": 955,
+          "valueId": 3916,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Watches",
+          "nameId": 989,
+          "valueId": 5036,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Valentines",
+          "nameId": 1020,
+          "valueId": 5991,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Wedding",
+          "nameId": 1024,
+          "valueId": 6952,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 324.0,
+          "text": "£324.00"
+        },
+        "previous": {
+          "value": 324.0,
+          "text": "£324.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 515.0,
+      "isPrimary": true,
+      "navigateUrl": "/emporio-armani/emporio-armani-ar1400-chronograph-black-ceramic-watch/prd/1041037",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/swatchsprite-100x100.jpg",
+        "size": "100x100",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/swatchsprite-66x66.jpg",
+        "size": "66x66",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/swatchsprite-36x36.jpg",
+        "size": "36x36",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/3/0/1/1041036/swatchsprite-18x18.jpg",
+        "size": "18x18",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1041036-4-150819071045.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-swatch-bk1",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/emporio-armani-ar1400-chronograph-black-ceramic-watch/1041036-spinset",
+        "colourCode": "BK1"
+      }
+    ]
+  },
+  "webCategoryIds": [
+    {
+      "id": 4175
+    },
+    {
+      "id": 5034
+    },
+    {
+      "id": 5088
+    },
+    {
+      "id": 11330
+    },
+    {
+      "id": 11345
+    },
+    {
+      "id": 11348
+    },
+    {
+      "id": 11734
+    },
+    {
+      "id": 14582
+    },
+    {
+      "id": 17940
+    },
+    {
+      "id": 20041
+    },
+    {
+      "id": 21230
+    },
+    {
+      "id": 22158
+    }
+  ],
+  "navigateUrl": "/emporio-armani/emporio-armani-ar1400-chronograph-black-ceramic-watch/prd/1041036",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2016-10-14T01:50:55Z",
+  "supplierRef": "AR1400",
+  "lastModified": "2016-10-14T11:08:58.0609899Z",
+  "lastTranslationModified": "2016-06-30T16:05:10.61Z",
+  "associatedProductGroups": [
+    {
+      "id": 1041036,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 324.0,
+      "text": "£324.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

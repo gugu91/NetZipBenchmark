@@ -1,0 +1,583 @@
+{
+  "id": 834183,
+  "language": "en-GB",
+  "name": "Magic Bra Extender (3 Pack)",
+  "description": "Bra Extender Pack by <a href=\"/Women/A-To-Z-Of-Brands/Magic/Cat/pgecategory.aspx?cid=622\"><strong>Magic<br></strong></a><ul>    <li>Can be attached to any bra</li>    <li>Instantly increases size of bra band</li>    <li>Hand wash</li>    <li>75% Polyamide, 25% Polyester</li>    <li>Pack of three</li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "Fabric 1: 75% Polyamide, 25% Polyester.",
+  "additionalInfo": "Fabric 1: 75% Polyamide, 25% Polyester.",
+  "brand": {
+    "name": "Magic",
+    "description": "<a href=\"/Women/A-To-Z-Of-Brands/Magic/Cat/pgecategory.aspx?cid=622\"><strong>Magic</strong></a> creates a range of underwear solutions designed to enhance and maximise your figure underneath clothing. Bra strap converters, stick on push up pads and fashion tape are all key for a quick fashion fix, as <a href=\"/Women/A-To-Z-Of-Brands/Magic/Cat/pgecategory.aspx?cid=622\"><strong>Magic's</strong></a> slimming slip dresses and waist nipping briefs create covetable contours.",
+    "brandId": 439
+  },
+  "careInfo": "Hand Wash Only",
+  "productCode": "WBIAH834183",
+  "category": "Lingerie Accessories",
+  "categoryId": 522,
+  "department": "Lingerie WB",
+  "departmentId": 77,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 834184,
+      "colourCode": "MU1",
+      "sku": "WBIAH834184",
+      "colour": "Black, white, skin",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Lingerie",
+          "nameId": 900,
+          "valueId": 1507,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 11",
+          "nameId": 955,
+          "valueId": 2635,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "No Model Image",
+          "nameId": 952,
+          "valueId": 3349,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-08-12T12:32:28.47Z"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Lingerie Accessories",
+          "nameId": 989,
+          "valueId": 5043,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CO-ORDINATE",
+          "value": "Not Applicable",
+          "nameId": 1016,
+          "valueId": 5150,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain - DO NOT USE",
+          "nameId": 925,
+          "valueId": 6617,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "3 Packs",
+          "nameId": 1032,
+          "valueId": 7025,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "Size 4",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 323
+        },
+        {
+          "name": "Size 4",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 323
+        },
+        {
+          "name": "Size 4",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 323
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1920,
+          "name": "UK 14",
+          "schema": "UK",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "AU 14",
+          "schema": "AU",
+          "sortOrder": 39
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 9.0,
+          "text": "£9.00"
+        },
+        "previous": {
+          "value": 9.0,
+          "text": "£9.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 25.0,
+      "isPrimary": true,
+      "navigateUrl": "/magic/magic-bra-extender-3-pack/prd/834184",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/blackwhiteskin/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/blackwhiteskin/image1xl.jpg",
+        "size": "s",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/blackwhiteskin/image1l.jpg",
+        "size": "l",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/blackwhiteskin/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/blackwhiteskin/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/3/8/1/4/834183/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/magic-bra-extender-3-pack/834183-1-blackwhiteskin",
+        "colourCode": "MU1",
+        "colour": "Black, white, skin",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/magic-bra-extender-3-pack/834183-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/magic-bra-extender-3-pack/834183-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/magic-bra-extender-3-pack/834183-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 6046
+    },
+    {
+      "id": 6576
+    },
+    {
+      "id": 6748
+    },
+    {
+      "id": 16812
+    },
+    {
+      "id": 17644
+    },
+    {
+      "id": 19224
+    },
+    {
+      "id": 23570
+    }
+  ],
+  "navigateUrl": "/magic/magic-bra-extender-3-pack/prd/834183",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2015-12-08T15:40:27Z",
+  "supplierRef": "38BE (6cm=6444)",
+  "lastModified": "2016-10-16T15:30:01.6751383Z",
+  "lastTranslationModified": "2016-02-10T11:07:19.057Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 9.0,
+      "text": "£9.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "id": 1258399,
+  "language": "en-GB",
+  "name": "Gipsy Over-The-Knee Socks",
+  "description": "<a href=\"/Women/Socks-Tights/Cat/pgecategory.aspx?cid=7657&amp;via=top\"><strong>Socks</strong></a> by <a href=\"/Women/A-To-Z-Of-Brands/Gipsy/Cat/pgecategory.aspx?cid=4413\"><strong>Gipsy</strong></a><ul>    <li>Fine knit</li><li>Over-the-knee design</li><li>Stretch cuff opening</li>    <li>Hand wash</li><li>95% Polyester, 5% Elastane</li></ul>",
+  "fabricConstruction": "Knitted",
+  "materials": "Main: 95% Polyester, 5% Elastane.",
+  "additionalInfo": "Main: 95% Polyester, 5% Elastane.",
+  "brand": {
+    "name": "Gipsy",
+    "description": "With over 30 years experience, hosiery brand <a href=\"/Women/A-To-Z-Of-Brands/Gipsy/Cat/pgecategory.aspx?cid=4413\"><strong>Gipsy</strong></a> bring forth an eclectic edit of classic opaque styles and directional designs. Fusing their signature Italian style with international fashions, <a href=\"/Women/A-To-Z-Of-Brands/Gipsy/Cat/pgecategory.aspx?cid=4413\"><strong>Gipsy</strong></a> prides themselves on their quality collections. Expect to find soft over-the-knee socks and lace print tights, alongside classic opaque styles, wrapped bondage designs and preppy ankle socks.",
+    "brandId": 3070
+  },
+  "careInfo": "Hand Wash Only<br>",
+  "productCode": "YBWAD1258399",
+  "category": "Socks",
+  "categoryId": 3751,
+  "department": "Lingerie WB",
+  "departmentId": 77,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1258400,
+      "colourCode": "BK1",
+      "sku": "YBWAD1258400",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Socks",
+          "nameId": 900,
+          "valueId": 1578,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 11",
+          "nameId": 955,
+          "valueId": 2635,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Socks",
+          "nameId": 989,
+          "valueId": 4921,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CO-ORDINATE",
+          "value": "Not Applicable",
+          "nameId": 1016,
+          "valueId": 5150,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SHOP BY FIT",
+          "value": "Main Collection",
+          "nameId": 1027,
+          "valueId": 6764,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 123
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 123
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 123
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 4.0,
+          "text": "£4.00"
+        },
+        "previous": {
+          "value": 4.0,
+          "text": "£4.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 88.0,
+      "isPrimary": true,
+      "navigateUrl": "/gipsy/gipsy-over-the-knee-socks/prd/1258400",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/9/3/8/1258399/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/gipsy-over-the-knee-socks/1258399-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/gipsy-over-the-knee-socks/1258399-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/gipsy-over-the-knee-socks/1258399-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/gipsy-over-the-knee-socks/1258399-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 7657
+    },
+    {
+      "id": 15184
+    },
+    {
+      "id": 20269
+    },
+    {
+      "id": 22971
+    }
+  ],
+  "navigateUrl": "/gipsy/gipsy-over-the-knee-socks/prd/1258399",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2015-08-11T02:44:27Z",
+  "supplierRef": "1191",
+  "lastModified": "2016-10-16T22:45:01.2828412Z",
+  "lastTranslationModified": "2016-02-09T12:36:36.713Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 4.0,
+      "text": "£4.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "id": 860442,
+  "language": "en-GB",
+  "name": "Soo Lee Waterfall Edge Dress",
+  "description": "<ul><li>Soft slinky dress by Soo Lee</li><li>Fitted style with ruffle waterfall detail</li><li>Zip-through back and capped sleeves</li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "Shell: 100% polyester  Lining: 95% polyester, 5% spandex",
+  "additionalInfo": "Shell: 100% polyester\r\nLining: 95% polyester, 5% spandex",
+  "brand": {
+    "name": "Soo Lee",
+    "brandId": 3712
+  },
+  "careInfo": "Hand wash, do not use bleach, dry flat, cool iron",
+  "productCode": "WAHAD860442",
+  "category": "Evening Dresses",
+  "categoryId": 2092,
+  "department": "Trend OW",
+  "departmentId": 2008,
+  "division": "Women's Outlet",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1010788,
+      "colourCode": "BK1",
+      "sku": "XAHAD1010788",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET STOCK TYPE",
+          "value": "From Stock",
+          "nameId": 920,
+          "valueId": 2484,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET GO LIVE MONTH",
+          "value": "Nov",
+          "nameId": 931,
+          "valueId": 2490,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Roxanne",
+          "nameId": 952,
+          "valueId": 3119,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:58.163Z"
+        },
+        {
+          "name": "LENGTH",
+          "value": "Mini",
+          "nameId": 981,
+          "valueId": 3677,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "DRESS TYPE",
+          "value": "Going Out Dresses",
+          "nameId": 1012,
+          "valueId": 4458,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Shift Dresses",
+          "nameId": 989,
+          "valueId": 6332,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "UK 10-12",
+          "sortOrder": 103
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "UK 10-12",
+          "sortOrder": 103
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "UK 10-12",
+          "sortOrder": 103
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 70.0,
+          "text": "£70.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true
+      },
+      "weight": 315.0,
+      "isPrimary": false,
+      "navigateUrl": "/soo-lee/soo-lee-waterfall-edge-dress/prd/1010788",
+      "isAvailable": true
+    },
+    {
+      "id": 860443,
+      "colourCode": "BK1",
+      "sku": "WAHAD860443",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET STOCK TYPE",
+          "value": "From Stock",
+          "nameId": 920,
+          "valueId": 2484,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET GO LIVE MONTH",
+          "value": "Nov",
+          "nameId": 931,
+          "valueId": 2490,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Roxanne",
+          "nameId": 952,
+          "valueId": 3119,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:58.163Z"
+        },
+        {
+          "name": "LENGTH",
+          "value": "Mini",
+          "nameId": 981,
+          "valueId": 3677,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "DRESS TYPE",
+          "value": "Going Out Dresses",
+          "nameId": 1012,
+          "valueId": 4458,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Shift Dresses",
+          "nameId": 989,
+          "valueId": 6332,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S/M",
+          "schema": "UK",
+          "text": "UK 8-10",
+          "sortOrder": 108
+        },
+        {
+          "name": "S/M",
+          "schema": "US",
+          "text": "UK 8-10",
+          "sortOrder": 108
+        },
+        {
+          "name": "S/M",
+          "schema": "AU",
+          "text": "UK 8-10",
+          "sortOrder": 108
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "US 6",
+          "schema": "US",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 27
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 70.0,
+          "text": "£70.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true
+      },
+      "weight": 315.0,
+      "isPrimary": false,
+      "navigateUrl": "/soo-lee/soo-lee-waterfall-edge-dress/prd/860443",
+      "isAvailable": true
+    },
+    {
+      "id": 860444,
+      "colourCode": "BK1",
+      "sku": "WAHAD860444",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET STOCK TYPE",
+          "value": "From Stock",
+          "nameId": 920,
+          "valueId": 2484,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OUTLET GO LIVE MONTH",
+          "value": "Nov",
+          "nameId": 931,
+          "valueId": 2490,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Roxanne",
+          "nameId": 952,
+          "valueId": 3119,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:58.163Z"
+        },
+        {
+          "name": "LENGTH",
+          "value": "Mini",
+          "nameId": 981,
+          "valueId": 3677,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "DRESS TYPE",
+          "value": "Going Out Dresses",
+          "nameId": 1012,
+          "valueId": 4458,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Shift Dresses",
+          "nameId": 989,
+          "valueId": 6332,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M/L",
+          "schema": "UK",
+          "text": "UK 12-14",
+          "sortOrder": 109
+        },
+        {
+          "name": "M / L",
+          "schema": "US",
+          "text": "UK 12-14",
+          "sortOrder": 109
+        },
+        {
+          "name": "M / L",
+          "schema": "AU",
+          "text": "UK 12-14",
+          "sortOrder": 109
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 70.0,
+          "text": "£70.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true
+      },
+      "weight": 315.0,
+      "isPrimary": false,
+      "navigateUrl": "/soo-lee/soo-lee-waterfall-edge-dress/prd/860444",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Green/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Green/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Green/image1xl.jpg",
+        "size": "s",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Green/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/37/382/860442/Green/image1l.jpg",
+        "size": "l",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/860442-4-091026025837.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-1-green",
+        "colourCode": "GR1",
+        "colour": "Green",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-catwalk-AVS",
+        "colourCode": "BK1"
+      },
+      {
+        "url": "video.asos-media.com/products/soo-lee-waterfall-edge-dress/860442-catwalk-AVS",
+        "colourCode": "GR1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [],
+  "navigateUrl": "/soo-lee/soo-lee-waterfall-edge-dress/prd/860442",
+  "statusId": 52000,
+  "divisionId": 6,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "supplierRef": "DRB007",
+  "lastModified": "2016-10-14T11:30:43.1031778Z",
+  "lastTranslationModified": "2016-03-11T11:29:27.59Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 18.0,
+      "text": "£18.00"
+    },
+    "previous": {
+      "value": 35.0,
+      "text": "£35.00"
+    },
+    "rrp": {
+      "value": 70.0,
+      "text": "£70.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": true
+  }
+}

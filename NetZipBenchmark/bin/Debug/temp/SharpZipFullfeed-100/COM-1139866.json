@@ -1,0 +1,502 @@
+{
+  "id": 1139866,
+  "language": "en-GB",
+  "name": "Bliss Porefector Gadget",
+  "description": "Porefector gadget by <a href=\"/Beauty/A-To-Z-Of-Brands/Bliss/Cat/pgecategory.aspx?cid=7301\"><strong>Bliss</strong></a><ul>    <li>Creates micro-jets to extract impurities and clean skin</li>    <li>Sonic vibrations help to unclog pores for a clear complexion</li><li>Recharge base unit and power adaptor</li><li>6.7oz Daily Detoxifying Facial Toner</li><li>2 x samples of Steep Clean 15-Minute Facial Mask</li><li>One year limited warranty</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Not required: 100% Not required.",
+  "additionalInfo": "<div><b>Please note: Warranty must be registered on the brand's website within 90 days of purchase.</b></div>",
+  "brand": {
+    "name": "Bliss",
+    "description": "Drawing on their expertise and extensive beauty know-how, spa aficionados <a href=\"/Beauty/A-To-Z-Of-Brands/Bliss/Cat/pgecategory.aspx?cid=7301\"><strong>Bliss</strong></a> set out to create a range of professional, effective products with a tongue-in-cheek attitude. Opting for the very best, using natural oils and fruity extracts, the <a href=\"/Beauty/A-To-Z-Of-Brands/Bliss/Cat/pgecategory.aspx?cid=7301\"><strong>Bliss</strong></a> collection ranges from the cellulite busting Fat Girl Slim, to their revolutionary at-home facial kits.",
+    "brandId": 12087
+  },
+  "careInfo": "&nbsp;",
+  "productCode": "XAGDF1139866",
+  "category": "Skincare",
+  "categoryId": 729,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1139867,
+      "colourCode": "NC1",
+      "sku": "XAGDF1139867",
+      "colour": "Pore-fector gadget",
+      "attributes": [
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Not Applicable",
+          "nameId": 967,
+          "valueId": 3530,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Cleanse & Tone",
+          "nameId": 989,
+          "valueId": 5118,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 140.0,
+          "text": "£140.00"
+        },
+        "previous": {
+          "value": 140.0,
+          "text": "£140.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 836.0,
+      "isPrimary": true,
+      "navigateUrl": "/bliss/bliss-porefector-gadget/prd/1139867",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/porefectorgadget/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/porefectorgadget/image1xl.jpg",
+        "size": "s",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/porefectorgadget/image1l.jpg",
+        "size": "l",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/porefectorgadget/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/porefectorgadget/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/6/8/9/1139866/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/bliss-porefector-gadget/1139866-1-porefectorgadget",
+        "colourCode": "NC1",
+        "colour": "Pore-fector gadget",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/bliss-porefector-gadget/1139866-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 4540
+    },
+    {
+      "id": 14719
+    },
+    {
+      "id": 18621
+    },
+    {
+      "id": 18622
+    },
+    {
+      "id": 21072
+    },
+    {
+      "id": 22323
+    }
+  ],
+  "navigateUrl": "/bliss/bliss-porefector-gadget/prd/1139866",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-08-02T22:34:14Z",
+  "lastModified": "2016-09-28T15:19:44.3239882Z",
+  "lastTranslationModified": "2016-02-16T14:24:53.61Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 140.0,
+      "text": "£140.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

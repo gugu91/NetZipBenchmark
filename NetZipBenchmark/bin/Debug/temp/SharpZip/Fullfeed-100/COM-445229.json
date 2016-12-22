@@ -1,0 +1,522 @@
+{
+  "id": 445229,
+  "language": "en-GB",
+  "name": "Benefit Hoola Bronzing Powder",
+  "description": "<a href=\"/Women/Beauty/Make-Up/Blush-Bronzers/Cat/pgecategory.aspx?cid=16792\"><strong>Bronzer</strong></a> by <a href=\"/Beauty/A-To-Z-Of-Brands/Benefit/Cat/pgecategory.aspx?cid=5842\"><strong>Benefit</strong></a><ul>    <li>Lightweight bronzing powder</li>    <li>Designed to achieve a natural glow</li><li>Can be used to sculpt and define&nbsp;</li>    <li>Comes with a soft fantail brush</li>    <li>Winner of the&nbsp;Vogue 100 Beauty Hall of Fame award</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "additionalInfo": "&nbsp;",
+  "brand": {
+    "name": "Benefit",
+    "description": "<a href=\"/Beauty/A-To-Z-Of-Brands/Benefit/Cat/pgecategory.aspx?cid=5842\"><strong>Benefit</strong></a> combine candy colour hues with all American charm to create their whimsical cosmetic line. After reaching cult status with their multipurpose Benetint, Jean and Jane Ford forged ahead, creating everything from mascaras, to face primers, blushers and lip glosses; all encased in vintage style packaging, effortlessly capturing the brand&rsquo;s frivolous nature.",
+    "brandId": 3498
+  },
+  "careInfo": "&nbsp;",
+  "productCode": "QAGAO445229",
+  "category": "Make-up",
+  "categoryId": 306,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 445230,
+      "colourCode": "BR1",
+      "sku": "QAGAO445230",
+      "colour": "Bronzing powder",
+      "attributes": [
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "N/A",
+          "nameId": 943,
+          "valueId": 3346,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Not Applicable",
+          "nameId": 967,
+          "valueId": 3530,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Bronzers & Blushers",
+          "nameId": 989,
+          "valueId": 5116,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 23.5,
+          "text": "£23.50"
+        },
+        "previous": {
+          "value": 23.5,
+          "text": "£23.50"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 50.0,
+      "isPrimary": true,
+      "navigateUrl": "/benefit/benefit-hoola-bronzing-powder/prd/445230",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/bronzingpowder/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/bronzingpowder/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/bronzingpowder/image1l.jpg",
+        "size": "l",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/bronzingpowder/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/bronzingpowder/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/9/2/2/5/445229/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/benefit-hoola-bronzing-powder/445229-1-bronzingpowder",
+        "colourCode": "BR1",
+        "colour": "Bronzing powder",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/benefit-hoola-bronzing-powder/445229-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/benefit-hoola-bronzing-powder/445229-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/benefit-hoola-bronzing-powder/445229-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 5020
+    },
+    {
+      "id": 13040
+    },
+    {
+      "id": 13230
+    },
+    {
+      "id": 15495
+    },
+    {
+      "id": 16792
+    },
+    {
+      "id": 17557
+    },
+    {
+      "id": 20946
+    },
+    {
+      "id": 22264
+    }
+  ],
+  "navigateUrl": "/benefit/benefit-hoola-bronzing-powder/prd/445229",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-09-26T09:00:28Z",
+  "supplierRef": "IB74",
+  "lastModified": "2016-10-16T22:17:22.3352027Z",
+  "lastTranslationModified": "2016-09-29T14:21:56.547Z",
+  "associatedProductGroups": [
+    {
+      "id": 445229,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 23.5,
+      "text": "£23.50"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "id": 830521,
+  "language": "en-GB",
+  "name": "Casio A168WG-9EF Gold Plated Digital Watch",
+  "description": "<a href=\"/Men/Watches/Cat/pgecategory.aspx?cid=5034\"><strong>Watch</strong></a> by <a href=\"/Men/A-To-Z-Of-Brands/Casio/Cat/pgecategory.aspx?cid=3735\"><strong>Casio</strong></a><ul>    <li>Stainless steel</li><li>Gold-plated design</li>    <li>Digital movement</li>    <li>Fold-over clasp fastening</li><li>3ATM - Water resistant up to 30 meters (100 feet)</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Gold Plated Steel Bracelet",
+  "additionalInfo": "Model: A168WG-9EF<br>2 Year Manufacturer Warranty<br>Case: Resin<br>Case Width: 36mm<br>Case Depth: 9mm<br>Strap: Gold Plated Steel Bracelet<br>Fastening: Fold-Over Clasp<br>Movement: Digital",
+  "brand": {
+    "name": "Casio",
+    "description": "Founded in Tokyo, Japanese brand <a href=\"/search/pgeSearch.aspx?hrd=1&q=casio+unisex+watches\"><strong>Casio</strong></a> offer a collection of watches that spans both retro and contemporary styles. Known for their innovative features, such as calculator functions, <a href=\"/search/pgeSearch.aspx?hrd=1&q=casio+unisex+watches\"><strong>Casio</strong></a> watches adopt a bold use of colour to bring a modern edge to their collections of digital and analogue watches.",
+    "brandId": 110
+  },
+  "careInfo": "3ATM - Water resistant to 30 meters (100 feet). Will withstand splashes of water or rain but should not be worn while swimming or diving.",
+  "productCode": "WCJAE830521",
+  "category": "Unisex",
+  "categoryId": 2249,
+  "department": "Watches and Jewellery MB",
+  "departmentId": 136,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 830522,
+      "colourCode": "GO1",
+      "sku": "WCJAE830522",
+      "colour": "Gold",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Watches",
+          "nameId": 900,
+          "valueId": 1624,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "July-dec",
+          "nameId": 944,
+          "valueId": 2645,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "No model image",
+          "nameId": 951,
+          "valueId": 2947,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.43Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "December 2011",
+          "nameId": 960,
+          "valueId": 3293,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Electrical Equipment",
+          "nameId": 967,
+          "valueId": 3531,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Watches",
+          "nameId": 989,
+          "valueId": 5036,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 116.0,
+      "isPrimary": true,
+      "navigateUrl": "/casio/casio-a168wg-9ef-gold-plated-digital-watch/prd/830522",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/gold/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/gold/image1xl.jpg",
+        "size": "s",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/gold/image1l.jpg",
+        "size": "l",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/gold/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/gold/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/2/5/0/830521/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/830521-4-150817010449.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/casio-a168wg-9ef-gold-plated-digital-watch/830521-1-gold",
+        "colourCode": "GO1",
+        "colour": "Gold",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/casio-a168wg-9ef-gold-plated-digital-watch/830521-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/casio-a168wg-9ef-gold-plated-digital-watch/830521-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/casio-a168wg-9ef-gold-plated-digital-watch/830521-spinset",
+        "colourCode": "GO1"
+      }
+    ]
+  },
+  "webCategoryIds": [
+    {
+      "id": 4175
+    },
+    {
+      "id": 5034
+    },
+    {
+      "id": 5088
+    },
+    {
+      "id": 11325
+    },
+    {
+      "id": 11328
+    },
+    {
+      "id": 11330
+    },
+    {
+      "id": 11344
+    },
+    {
+      "id": 11347
+    },
+    {
+      "id": 11348
+    },
+    {
+      "id": 16711
+    },
+    {
+      "id": 17477
+    },
+    {
+      "id": 20041
+    },
+    {
+      "id": 20992
+    },
+    {
+      "id": 21715
+    },
+    {
+      "id": 22482
+    }
+  ],
+  "navigateUrl": "/casio/casio-a168wg-9ef-gold-plated-digital-watch/prd/830521",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2016-07-30T01:43:29Z",
+  "supplierRef": "A168WG-9EF",
+  "lastModified": "2016-10-16T21:15:03.0570005Z",
+  "lastTranslationModified": "2016-06-22T16:11:12.657Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 32.0,
+      "text": "£32.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

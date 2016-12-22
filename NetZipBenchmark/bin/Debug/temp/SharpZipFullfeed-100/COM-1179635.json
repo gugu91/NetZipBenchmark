@@ -1,0 +1,483 @@
+{
+  "id": 1179635,
+  "language": "en-GB",
+  "name": "St. Tropez Tan Applicator Mitt",
+  "description": "Classic tan applicator mitt by St. TropezProtects hands for smooth and even resultsWater resistant barrier protects from product<br><br>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Body: 52% Polyurethane, 30% Polyester, 14% Other fibres, 4% Viscose.",
+  "additionalInfo": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"127\" style=\"border-collapse: collapse; width: 95pt;\">    <tbody>        <tr height=\"20\" style=\"height: 15pt;\">            <td class=\"xl69\" dir=\"LTR\" style=\"height: 15pt; width: 95pt;\">52% Polyurthane, 30% Polyester, 14% Vinylacetate, 4% Viscose<br></td>        </tr>    </tbody></table>",
+  "brand": {
+    "name": "St. Tropez",
+    "description": "Providing a natural tan all year round, <a href=\"/Beauty/A-To-Z-Of-Brands/St-Tropez/Cat/pgecategory.aspx?cid=3542\"><strong>St. Tropez</strong></a> offer a professional, streak-free sun-kissed glow with their range of fake tan and tinted moisturisers. Continuously experimenting with textures and tones, the range includes mousses, sheer sprays and body lotions, while bronzing rocks add a hint of colour to the d&eacute;colletage.",
+    "brandId": 676
+  },
+  "careInfo": "Rinse thoroughly in warm soapy water.",
+  "productCode": "YAGAA1179635",
+  "category": "Fake Tan",
+  "categoryId": 2390,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1179636,
+      "colourCode": "NC1",
+      "sku": "YAGAA1179636",
+      "colour": "Tan applicator mitt",
+      "attributes": [
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 11",
+          "nameId": 955,
+          "valueId": 2638,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Not Applicable",
+          "nameId": 967,
+          "valueId": 3530,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FAKE TAN",
+          "value": "Tanning Accessories",
+          "nameId": 1004,
+          "valueId": 4173,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Tanning Accessories",
+          "nameId": 989,
+          "valueId": 5119,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 3.5,
+          "text": "£3.50"
+        },
+        "previous": {
+          "value": 3.5,
+          "text": "£3.50"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 11.0,
+      "isPrimary": true,
+      "navigateUrl": "/st-tropez/st-tropez-tan-applicator-mitt/prd/1179636",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/tanapplicatormitt/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/tanapplicatormitt/image1xl.jpg",
+        "size": "s",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/tanapplicatormitt/image1l.jpg",
+        "size": "l",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/tanapplicatormitt/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/tanapplicatormitt/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/3/6/9/1179635/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/st-tropez-tan-applicator-mitt/1179635-1-tanapplicatormitt",
+        "colourCode": "NC1",
+        "colour": "Tan applicator mitt",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/st-tropez-tan-applicator-mitt/1179635-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/st-tropez-tan-applicator-mitt/1179635-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 5606
+    },
+    {
+      "id": 7662
+    },
+    {
+      "id": 13040
+    },
+    {
+      "id": 24431
+    }
+  ],
+  "navigateUrl": "/st-tropez/st-tropez-tan-applicator-mitt/prd/1179635",
+  "statusId": 52000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-08-02T22:33:21Z",
+  "supplierRef": "MITSPB",
+  "lastModified": "2016-10-16T22:02:48.2953302Z",
+  "lastTranslationModified": "2016-02-09T12:26:08.9Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 3.5,
+      "text": "£3.50"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

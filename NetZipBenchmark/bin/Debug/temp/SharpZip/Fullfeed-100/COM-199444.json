@@ -1,0 +1,338 @@
+{
+  "id": 199444,
+  "language": "en-GB",
+  "name": "Tigi Bed Head Small Talk Thickifier Energiser Styliser 200ml",
+  "description": "Hair Thickifier, Energiser and Styliser by <a href=\"/Beauty/A-To-Z-Of-Brands/Tigi/Cat/pgecategory.aspx?cid=9633\"><strong>Tigi</strong></a><ul>    <li>Gives life and volume to limp hair</li><li>Hydrates and softens&nbsp;</li><li>For a glossy finish</li><li>Protects hair from heat damage</li><li>Work through damp hair and style as desired</li>    <li>Product size: 200ml</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "additionalInfo": "&nbsp;<br><br><strong>SIZE & FIT</strong><br>Product size: 200ml",
+  "brand": {
+    "name": "Tigi Bed Head",
+    "description": "Approaching hair care with a fashion mind set, <a href=\"/Beauty/A-To-Z-Of-Brands/Tigi/Cat/pgecategory.aspx?cid=9633\"><strong>Tigi</strong></a> provide the tools to create the latest seasonal hair styles. Breaking with conventions, their hard working Bed Head range offers products with a serious dose of attitude, including hair spray, volumizing mousses and shampoos for blondes and brunettes.",
+    "brandId": 3198
+  },
+  "careInfo": "&nbsp;",
+  "productCode": "KBBHA199444",
+  "category": "Hair",
+  "categoryId": 390,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 199445,
+      "colourCode": "NC1",
+      "sku": "KBBHA199445",
+      "colour": "Purple",
+      "attributes": [
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Hair Styling & Treatments",
+          "nameId": 989,
+          "valueId": 5096,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 16.95,
+          "text": "£16.95"
+        },
+        "previous": {
+          "value": 16.95,
+          "text": "£16.95"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 275.0,
+      "isPrimary": true,
+      "navigateUrl": "/tigi-bed-head/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/prd/199445",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/K/9/231/199444/Purple/image50.jpg",
+        "size": "",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/purple/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/purple/image1xl.jpg",
+        "size": "s",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/purple/image1l.jpg",
+        "size": "l",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/purple/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/purple/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/4/4/9/199444/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/199444-1-purple",
+        "colourCode": "NC1",
+        "colour": "Purple",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/199444-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/199444-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/199444-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 5021
+    },
+    {
+      "id": 13040
+    },
+    {
+      "id": 17305
+    },
+    {
+      "id": 17557
+    },
+    {
+      "id": 18624
+    },
+    {
+      "id": 24615
+    }
+  ],
+  "navigateUrl": "/tigi-bed-head/tigi-bed-head-small-talk-thickifier-energiser-styliser-200ml/prd/199444",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-08-02T23:16:18Z",
+  "supplierRef": "615908404241",
+  "lastModified": "2016-10-16T22:16:52.6139654Z",
+  "lastTranslationModified": "2016-06-28T08:52:26.537Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 16.95,
+      "text": "£16.95"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

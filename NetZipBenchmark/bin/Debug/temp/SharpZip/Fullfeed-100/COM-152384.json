@@ -1,0 +1,538 @@
+{
+  "id": 152384,
+  "language": "en-GB",
+  "name": "ghd IV Styler",
+  "description": "<i>IV Styler</i>&nbsp;hair straighteners&nbsp;by <a href=\"/Beauty/A-To-Z-Of-Brands/Ghd/Cat/pgecategory.aspx?cid=1904\"><strong>ghd</strong></a><ul>    <li>Classic design</li><li>Ceramic plates</li><li>Rounded barrel allowing you to create flicks, waves and curls</li><li>Automatic sleep mode</li><li><a href=\" http://www.asos.com/Beauty/A-To-Z-Of-Brands/Ghd/Cat/pgecategory.aspx?cid=1904\" style=\"line-height: 1.3em; background-color: initial;\"><strong><span style=\"text-decoration: underline;\">shop GHD range</span></strong></a></li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "additionalInfo": "2 year UK guarantee<br><br>Improved safety features include: <br>Automatic switch-off sleep mode and a stronger more durable cable<br><br>Stay safe: Remember, your ghd IV styler is an electrical appliance and the plates achieve very high temperatures (typically 180ºC). So you need to be sensible and safe.<br><br>GHD stylers have a universal voltage which can vary from 110v to 230v and are supplied with a 3 pin UK plug. All other Socket types will require an adapter (not supplied) please check Voltage before use.<br><br>EAN code: 5060034526650",
+  "brand": {
+    "name": "ghd",
+    "description": "Providing styling tools and products for a professional finish, <a href=\"/Beauty/A-To-Z-Of-Brands/Ghd/Cat/pgecategory.aspx?cid=1904\"><strong>ghd</strong></a> ensure fashion-forward, runway hair styles are readily accessible. The award winning original <a href=\"/Beauty/A-To-Z-Of-Brands/Ghd/Cat/pgecategory.aspx?cid=1904\"><strong>ghd</strong></a> ceramic straighteners allow for creative flare, offering a variety of designs, from poker straight to wavy, tousled looks; while the hair care range protects and nourishes with inbuilt heat protection.",
+    "brandId": 2994
+  },
+  "careInfo": "&nbsp;",
+  "productCode": "GBBHA152384",
+  "category": "Styling Tools",
+  "categoryId": 778,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 152385,
+      "colourCode": "BK1",
+      "sku": "GBBHA152385",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 11",
+          "nameId": 955,
+          "valueId": 2638,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Electrical Equipment",
+          "nameId": 967,
+          "valueId": 3531,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Styling Tools",
+          "nameId": 989,
+          "valueId": 5104,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "Not Applicable",
+          "nameId": 1010,
+          "valueId": 5461,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 99.0,
+          "text": "£99.00"
+        },
+        "previous": {
+          "value": 99.0,
+          "text": "£99.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 719.0,
+      "isPrimary": true,
+      "navigateUrl": "/ghd/ghd-iv-styler/prd/152385",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/G/9/232/152384/Black/image50.jpg",
+        "size": "",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/8/3/2/152384/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/ghd-iv-styler/152384-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/ghd-iv-styler/152384-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/ghd-iv-styler/152384-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/ghd-iv-styler/152384-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 5021
+    },
+    {
+      "id": 15495
+    },
+    {
+      "id": 16728
+    },
+    {
+      "id": 17557
+    },
+    {
+      "id": 18624
+    },
+    {
+      "id": 18626
+    },
+    {
+      "id": 22954
+    }
+  ],
+  "navigateUrl": "/ghd/ghd-iv-styler/prd/152384",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-04-04T07:47:12Z",
+  "lastModified": "2016-10-16T21:17:21.1649898Z",
+  "lastTranslationModified": "2016-02-10T10:01:47.827Z",
+  "associatedProductGroups": [
+    {
+      "id": 152384,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 99.0,
+      "text": "£99.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

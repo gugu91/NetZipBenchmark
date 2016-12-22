@@ -1,0 +1,2073 @@
+{
+  "id": 1367510,
+  "language": "en-GB",
+  "name": "Polo Ralph Lauren Grey Long Sleeve Top Regular Fit",
+  "description": "<a href=\"/Men/T-Shirts-Vests/Long-Sleeved-T-Shirts/Cat/pgecategory.aspx?cid=13084\"><strong>Long sleeved T-shirt</strong></a> by <a href=\"/Men/A-To-Z-Of-Brands/Polo-Ralph-Lauren/Cat/pgecategory.aspx?cid=4280\"><strong>Polo Ralph Lauren</strong></a><ul>    <li>Marl jersey</li>    <li>Embroidered logo to chest</li>    <li>Crew neck</li>    <li>Regular fit - true to size</li>    <li>Machine wash</li>    <li>100% Cotton</li>    <li>Our model wears a size Medium and is 188cm/6'2\" tall</li></ul>",
+  "fabricConstruction": "Knitted",
+  "materials": "100% Cotton",
+  "additionalInfo": "100% Cotton<br><br><strong>SIZE & FIT</strong><br>Model's height: 6'2”/188 cm<BR/>Model is wearing: Size Medium",
+  "brand": {
+    "name": "Polo Ralph Lauren",
+    "description": "Naming his brand after a sport that embodied a world of classic style, Ralph Lauren created <a href=\"/Men/A-To-Z-Of-Brands/Polo-Ralph-Lauren/Cat/pgecategory.aspx?cid=4280\"><strong>Polo Ralph Lauren</strong></a> in 1967 as a label initially selling men's ties. The label quickly grew and redefined American style with their signature preppy menswear. The now iconic <a href=\"/Men/A-To-Z-Of-Brands/Polo-Ralph-Lauren/Cat/pgecategory.aspx?cid=4280\"><strong>Polo Ralph Lauren</strong></a> polo shirt was introduced in 1972 in twenty four colours and instantly became a classic, offering both quality construction and wide variety. Interested in longevity, timelessness and style, <a href=\"/Men/A-To-Z-Of-Brands/Polo-Ralph-Lauren/Cat/pgecategory.aspx?cid=4280\"><strong>Polo Ralph Lauren</strong></a> signifies lasting American menswear that builds upon its rich history of design with seasonal collections that offer effortless style.",
+    "brandId": 3594
+  },
+  "careInfo": "Machine wash according to instructions on care label",
+  "productCode": "YUNTS1367510",
+  "category": "Long Sleeve Tops",
+  "categoryId": 534,
+  "department": "Underwear MB",
+  "departmentId": 129,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1367511,
+      "colourCode": "GY1",
+      "sku": "YUNTS1367511",
+      "colour": "Grey",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Loungewear",
+          "nameId": 900,
+          "valueId": 1520,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "YES",
+          "nameId": 984,
+          "valueId": 3700,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Long",
+          "nameId": 961,
+          "valueId": 4070,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "T-Shirts",
+          "nameId": 1014,
+          "valueId": 5825,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Long Sleeve Tops",
+          "nameId": 1030,
+          "valueId": 6694,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 23
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "UK",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "US",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "AU",
+          "sortOrder": 158
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "previous": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 270.0,
+      "isPrimary": true,
+      "navigateUrl": "/polo-ralph-lauren/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/prd/1367511",
+      "isAvailable": true
+    },
+    {
+      "id": 1367512,
+      "colourCode": "GY1",
+      "sku": "YUNTS1367512",
+      "colour": "Grey",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Loungewear",
+          "nameId": 900,
+          "valueId": 1520,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "YES",
+          "nameId": 984,
+          "valueId": 3700,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Long",
+          "nameId": 961,
+          "valueId": 4070,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "T-Shirts",
+          "nameId": 1014,
+          "valueId": 5825,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Long Sleeve Tops",
+          "nameId": 1030,
+          "valueId": 6694,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "UK",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "US",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "AU",
+          "sortOrder": 160
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "previous": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 270.0,
+      "isPrimary": true,
+      "navigateUrl": "/polo-ralph-lauren/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/prd/1367512",
+      "isAvailable": true
+    },
+    {
+      "id": 1367513,
+      "colourCode": "GY1",
+      "sku": "YUNTS1367513",
+      "colour": "Grey",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Loungewear",
+          "nameId": 900,
+          "valueId": 1520,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "YES",
+          "nameId": 984,
+          "valueId": 3700,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Long",
+          "nameId": 961,
+          "valueId": 4070,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "T-Shirts",
+          "nameId": 1014,
+          "valueId": 5825,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Long Sleeve Tops",
+          "nameId": 1030,
+          "valueId": 6694,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "US",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "AU",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "previous": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 270.0,
+      "isPrimary": true,
+      "navigateUrl": "/polo-ralph-lauren/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/prd/1367513",
+      "isAvailable": true
+    },
+    {
+      "id": 1367514,
+      "colourCode": "GY1",
+      "sku": "YUNTS1367514",
+      "colour": "Grey",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Loungewear",
+          "nameId": 900,
+          "valueId": 1520,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "No",
+          "nameId": 966,
+          "valueId": 3476,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "YES",
+          "nameId": 984,
+          "valueId": 3700,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Long",
+          "nameId": 961,
+          "valueId": 4070,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "T-Shirts",
+          "nameId": 1014,
+          "valueId": 5825,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Long Sleeve Tops",
+          "nameId": 1030,
+          "valueId": 6694,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "UK",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "US",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "AU",
+          "sortOrder": 162
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "previous": {
+          "value": 45.0,
+          "text": "£45.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 270.0,
+      "isPrimary": true,
+      "navigateUrl": "/polo-ralph-lauren/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/prd/1367514",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/grey/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/grey/image1xl.jpg",
+        "size": "s",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/grey/image1l.jpg",
+        "size": "l",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/grey/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/grey/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/swatchsprite-100x100.jpg",
+        "size": "100x100",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/swatchsprite-66x66.jpg",
+        "size": "66x66",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/swatchsprite-36x36.jpg",
+        "size": "36x36",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/5/7/1367510/swatchsprite-18x18.jpg",
+        "size": "18x18",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1367510-4-150515125804.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-1-grey",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-swatch-gy1",
+        "colourCode": "GY1",
+        "colour": "Grey",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/1367510-catwalk-AVS",
+        "colourCode": "GY1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 7616
+    },
+    {
+      "id": 9095
+    },
+    {
+      "id": 13084
+    },
+    {
+      "id": 13498
+    },
+    {
+      "id": 15876
+    },
+    {
+      "id": 16332
+    },
+    {
+      "id": 16711
+    },
+    {
+      "id": 18797
+    },
+    {
+      "id": 18947
+    },
+    {
+      "id": 21264
+    },
+    {
+      "id": 21418
+    },
+    {
+      "id": 24118
+    }
+  ],
+  "navigateUrl": "/polo-ralph-lauren/polo-ralph-lauren-grey-long-sleeve-top-regular-fit/prd/1367510",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2012-12-18T22:34:29Z",
+  "supplierRef": "252ULSCWCCLJY-A0139-GREY",
+  "lastModified": "2016-10-16T21:15:02.2413543Z",
+  "lastTranslationModified": "2016-02-09T12:13:00.247Z",
+  "associatedProductGroups": [
+    {
+      "id": 1367510,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 45.0,
+      "text": "£45.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

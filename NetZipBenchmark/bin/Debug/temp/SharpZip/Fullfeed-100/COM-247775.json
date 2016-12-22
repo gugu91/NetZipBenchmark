@@ -1,0 +1,3955 @@
+{
+  "id": 247775,
+  "language": "en-GB",
+  "name": "ASOS Rib Vest",
+  "description": "<a href=\" /Men/T-Shirts-Vests/Vests/Cat/pgecategory.aspx?cid=9178\"><strong>Vest</strong></a> by <a href=\"/Men/A-To-Z-Of-Brands/Asos-Collection/Cat/pgecategory.aspx?cid=3159\"><strong>ASOS</strong></a><ul>    <li>Ribbed jersey</li><li>Scoop neck</li>    <li>Regular fit - true to size</li>    <li><span style=\"line-height: 1.3em; background-color: initial;\">Machine wash</span></li>    <li>100% Cotton</li>    <li>Our model wears a size Medium and is 185.5cm/6'1\" tall</li></ul>",
+  "fabricConstruction": "Knitted",
+  "materials": "Main: 100% Cotton.",
+  "additionalInfo": "Main: 100% Cotton.<br><br><strong>SIZE & FIT</strong><br>Model's height: 6'1”/185.5 cm<BR/>Model is wearing: Size Medium",
+  "brand": {
+    "name": "ASOS",
+    "description": "Designed in-house in our London studio by our dedicated menswear team, <a href=\"/Men/A-To-Z-Of-Brands/Asos-Collection/Cat/pgecategory.aspx?cid=3159\"><strong>ASOS</strong></a> offer a range of men&rsquo;s clothing designed and created exclusively for <a href=\" /Men/A-To-Z-Of-Brands/Asos-Collection/Cat/pgecategory.aspx?cid=3159\"><strong>ASOS</strong></a>.",
+    "brandId": 53
+  },
+  "careInfo": "Machine Wash According To Instructions On Care Label",
+  "productCode": "MMCAG247775",
+  "category": "Vests Basic Singles",
+  "categoryId": 2303,
+  "department": "Vests MO",
+  "departmentId": 133,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 3792872,
+      "colourCode": "BK1",
+      "sku": "2431569",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XXXS",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 1
+        },
+        {
+          "name": "XXXS",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 1
+        },
+        {
+          "name": "XXXS",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 1
+        },
+        {
+          "name": "XXXS",
+          "schema": "UK",
+          "text": "Chest 30-32in (76-81cm)",
+          "sortOrder": 1
+        },
+        {
+          "name": "XXXS",
+          "schema": "US",
+          "text": "Chest 30-32in (76-81cm)",
+          "sortOrder": 1
+        },
+        {
+          "name": "XXXS",
+          "schema": "AU",
+          "text": "Chest 30-32in (76-81cm)",
+          "sortOrder": 1
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2369,
+          "name": "XXXS",
+          "schema": "UK",
+          "sortOrder": 155
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 178.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/3792872",
+      "isAvailable": true
+    },
+    {
+      "id": 648984,
+      "colourCode": "BK1",
+      "sku": "TMCAG648984",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XXS",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 2
+        },
+        {
+          "name": "XXS",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 2
+        },
+        {
+          "name": "XXS",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 2
+        },
+        {
+          "name": "XXS",
+          "schema": "UK",
+          "text": "Chest 32-34in (81-86cm)",
+          "sortOrder": 2
+        },
+        {
+          "name": "XXS",
+          "schema": "US",
+          "text": "Chest 32-34in (81-86cm)",
+          "sortOrder": 2
+        },
+        {
+          "name": "XXS",
+          "schema": "AU",
+          "text": "Chest 32-34in (81-86cm)",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2082,
+          "name": "XXS",
+          "schema": "UK",
+          "sortOrder": 156
+        },
+        {
+          "id": 2082,
+          "name": "XXS",
+          "schema": "US",
+          "sortOrder": 156
+        },
+        {
+          "id": 2082,
+          "name": "XXS",
+          "schema": "AU",
+          "sortOrder": 156
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/648984",
+      "isAvailable": true
+    },
+    {
+      "id": 247776,
+      "colourCode": "BK1",
+      "sku": "MMCAG247776",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XS",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 3
+        },
+        {
+          "name": "XS",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 3
+        },
+        {
+          "name": "XS",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 3
+        },
+        {
+          "name": "XS",
+          "schema": "UK",
+          "text": "Chest 34-36in (86-91cm)",
+          "sortOrder": 3
+        },
+        {
+          "name": "XS",
+          "schema": "US",
+          "text": "Chest 34-36in (86-91cm)",
+          "sortOrder": 3
+        },
+        {
+          "name": "XS",
+          "schema": "AU",
+          "text": "Chest 34-36in (86-91cm)",
+          "sortOrder": 3
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "UK",
+          "sortOrder": 157
+        },
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "US",
+          "sortOrder": 157
+        },
+        {
+          "id": 1997,
+          "name": "XS",
+          "schema": "AU",
+          "sortOrder": 157
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247776",
+      "isAvailable": true
+    },
+    {
+      "id": 247777,
+      "colourCode": "BK1",
+      "sku": "MMCAG247777",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 4
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 4
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 4
+        },
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "Chest 36-38in (91-96cm)",
+          "sortOrder": 4
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "Chest 36-38in (91-96cm)",
+          "sortOrder": 4
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "Chest 36-38in (91-96cm)",
+          "sortOrder": 4
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "UK",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "US",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "AU",
+          "sortOrder": 158
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247777",
+      "isAvailable": true
+    },
+    {
+      "id": 247778,
+      "colourCode": "BK1",
+      "sku": "MMCAG247778",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 5
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 5
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 5
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "Chest 38-40in (96-101cm)",
+          "sortOrder": 5
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "Chest 38-40in (96-101cm)",
+          "sortOrder": 5
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "Chest 38-40in (96-101cm)",
+          "sortOrder": 5
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "UK",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "US",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "AU",
+          "sortOrder": 160
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247778",
+      "isAvailable": true
+    },
+    {
+      "id": 247779,
+      "colourCode": "BK1",
+      "sku": "MMCAG247779",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 6
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 6
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 6
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "US",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "AU",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247779",
+      "isAvailable": true
+    },
+    {
+      "id": 247780,
+      "colourCode": "BK1",
+      "sku": "MMCAG247780",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 7
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 7
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 7
+        },
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "Chest 42-44in (106-111cm)",
+          "sortOrder": 7
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "Chest 42-44in (106-111cm)",
+          "sortOrder": 7
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "Chest 42-44in (106-111cm)",
+          "sortOrder": 7
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "UK",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "US",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "AU",
+          "sortOrder": 162
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247780",
+      "isAvailable": true
+    },
+    {
+      "id": 247781,
+      "colourCode": "BK1",
+      "sku": "MMCAG247781",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XXL",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 8
+        },
+        {
+          "name": "XXL",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 8
+        },
+        {
+          "name": "XXL",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 8
+        },
+        {
+          "name": "XXL",
+          "schema": "UK",
+          "text": "Chest 44-46in (111-116cm)",
+          "sortOrder": 8
+        },
+        {
+          "name": "XXL",
+          "schema": "US",
+          "text": "Chest 44-46in (111-116cm)",
+          "sortOrder": 8
+        },
+        {
+          "name": "XXL",
+          "schema": "AU",
+          "text": "Chest 44-46in (111-116cm)",
+          "sortOrder": 8
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "UK",
+          "sortOrder": 163
+        },
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "US",
+          "sortOrder": 163
+        },
+        {
+          "id": 2016,
+          "name": "XXL",
+          "schema": "AU",
+          "sortOrder": 163
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 154.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/247781",
+      "isAvailable": true
+    },
+    {
+      "id": 3792851,
+      "colourCode": "BK1",
+      "sku": "2431570",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Vests",
+          "nameId": 900,
+          "valueId": 1621,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Regular",
+          "nameId": 934,
+          "valueId": 2381,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCTR LENGTH",
+          "value": "Standard",
+          "nameId": 916,
+          "valueId": 2430,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Crew",
+          "nameId": 941,
+          "valueId": 2523,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Medium",
+          "nameId": 956,
+          "valueId": 2684,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Asmenclwhtch",
+          "nameId": 943,
+          "valueId": 3225,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Sleeveless",
+          "nameId": 961,
+          "valueId": 3343,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 14",
+          "nameId": 955,
+          "valueId": 3915,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Old Flow",
+          "nameId": 966,
+          "valueId": 4014,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Plain",
+          "nameId": 989,
+          "valueId": 4474,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Standard",
+          "nameId": 1014,
+          "valueId": 5849,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "END USE",
+          "value": "Rib",
+          "nameId": 988,
+          "valueId": 5858,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Joshua Williams",
+          "nameId": 951,
+          "valueId": 6287,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2015-06-11T16:53:34.26Z"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Standard",
+          "nameId": 1029,
+          "valueId": 6532,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Singles",
+          "nameId": 1032,
+          "valueId": 7032,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Standard Hem",
+          "nameId": 993,
+          "valueId": 7178,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Core",
+          "nameId": 1033,
+          "valueId": 7401,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XXXL",
+          "schema": "UK",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 9
+        },
+        {
+          "name": "XXXL",
+          "schema": "US",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 9
+        },
+        {
+          "name": "XXXL",
+          "schema": "AU",
+          "text": "Chest 40-42in (101-106cm)",
+          "sortOrder": 9
+        },
+        {
+          "name": "XXXL",
+          "schema": "UK",
+          "text": "Chest 46-48in (116-121cm)",
+          "sortOrder": 9
+        },
+        {
+          "name": "XXXL",
+          "schema": "US",
+          "text": "Chest 46-48in (116-121cm)",
+          "sortOrder": 9
+        },
+        {
+          "name": "XXXL",
+          "schema": "AU",
+          "text": "Chest 46-48in (116-121cm)",
+          "sortOrder": 9
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1950,
+          "name": "XXXL",
+          "schema": "UK",
+          "sortOrder": 164
+        },
+        {
+          "id": 1950,
+          "name": "XXXL",
+          "schema": "US",
+          "sortOrder": 164
+        },
+        {
+          "id": 1950,
+          "name": "XXXL",
+          "schema": "AU",
+          "sortOrder": 164
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "previous": {
+          "value": 8.0,
+          "text": "£8.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 178.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-rib-vest/prd/3792851",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/swatchsprite-100x100.jpg",
+        "size": "100x100",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/swatchsprite-66x66.jpg",
+        "size": "66x66",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/swatchsprite-36x36.jpg",
+        "size": "36x36",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/5/7/7/7/247775/swatchsprite-18x18.jpg",
+        "size": "18x18",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/247775-4-151112040916.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-rib-vest/247775-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-rib-vest/247775-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-rib-vest/247775-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-rib-vest/247775-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-rib-vest/247775-swatch-bk1",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": false,
+        "type": "Swatch"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/asos-rib-vest/247775-catwalk-AVS",
+        "colourCode": "BK1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 9178
+    },
+    {
+      "id": 15580
+    },
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos/asos-rib-vest/prd/247775",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2016-09-21T08:20:55Z",
+  "supplierRef": "RIB VEST",
+  "lastModified": "2016-10-16T18:16:54.7941435Z",
+  "lastTranslationModified": "2016-02-10T17:43:51.2Z",
+  "associatedProductGroups": [
+    {
+      "id": 247775,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 8.0,
+      "text": "£8.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

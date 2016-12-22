@@ -1,0 +1,1363 @@
+{
+  "id": 1332730,
+  "language": "en-GB",
+  "name": "ASOS PETITE Exclusive Lace Insert Ponti Dress",
+  "description": "<ul><li>Stretch fitted <a href=\" /Women/Dresses/Cat/pgecategory.aspx?cid=8799\"><strong>dress</strong></a> by <a href=\" /Women/Petite/Cat/pgecategory.aspx?cid=4177\"><strong>ASOS PETITE</strong></a> featuring a panel design with curved waistband, cap sleeves, and a cowl neckline with contrast colour lace insert. <br><br>Model wears a UK 8 and her height is 176cm/5'9.5\"</li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "76% POLYESTER 19% VISCOSE 5% ELASTANE",
+  "additionalInfo": "76% POLYESTER, 19% VISCOSE, 5% ELASTANE\r\n\r\nSize 10 length measures 35.5in (90cm) – Side neck to hem",
+  "brand": {
+    "name": "ASOS Petite",
+    "brandId": 13512
+  },
+  "careInfo": "Hand wash only",
+  "productCode": "YFPDD1332730",
+  "category": "Dresses - Day",
+  "categoryId": 339,
+  "department": "Petites WO",
+  "departmentId": 92,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1332731,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332731",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 4",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 78
+        },
+        {
+          "name": "US 0",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 78
+        },
+        {
+          "name": "AU 4",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 78
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1878,
+          "name": "UK 4",
+          "schema": "UK",
+          "sortOrder": 8
+        },
+        {
+          "id": 1878,
+          "name": "US 1",
+          "schema": "US",
+          "sortOrder": 8
+        },
+        {
+          "id": 1878,
+          "name": "AU 4",
+          "schema": "AU",
+          "sortOrder": 8
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332731",
+      "isAvailable": true
+    },
+    {
+      "id": 1332732,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332732",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 6",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "US 2",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "AU 6",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 79
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1924,
+          "name": "UK 6",
+          "schema": "UK",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "US 2",
+          "schema": "US",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "AU 6",
+          "schema": "AU",
+          "sortOrder": 13
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332732",
+      "isAvailable": true
+    },
+    {
+      "id": 1332733,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332733",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 8",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 80
+        },
+        {
+          "name": "US 4",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 80
+        },
+        {
+          "name": "AU 8",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 80
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "US 4",
+          "schema": "US",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "AU 8",
+          "schema": "AU",
+          "sortOrder": 20
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332733",
+      "isAvailable": true
+    },
+    {
+      "id": 1332734,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332734",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 10",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 81
+        },
+        {
+          "name": "US 6",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 81
+        },
+        {
+          "name": "AU 10",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 81
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "US 6",
+          "schema": "US",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 27
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332734",
+      "isAvailable": true
+    },
+    {
+      "id": 1332735,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332735",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 12",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 82
+        },
+        {
+          "name": "US 8",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 82
+        },
+        {
+          "name": "AU 12",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 82
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332735",
+      "isAvailable": true
+    },
+    {
+      "id": 1332736,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332736",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 14",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 83
+        },
+        {
+          "name": "US 10",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 83
+        },
+        {
+          "name": "AU 14",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 83
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1920,
+          "name": "UK 14",
+          "schema": "UK",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "AU 14",
+          "schema": "AU",
+          "sortOrder": 39
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332736",
+      "isAvailable": true
+    },
+    {
+      "id": 1332737,
+      "colourCode": "BK1",
+      "sku": "YFPDD1332737",
+      "colour": "Black",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Sept/oct",
+          "nameId": 944,
+          "valueId": 2666,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Monica",
+          "nameId": 952,
+          "valueId": 3110,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:37:01.193Z"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain- DO NOT USE",
+          "nameId": 925,
+          "valueId": 6646,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 16",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 84
+        },
+        {
+          "name": "US 12",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 84
+        },
+        {
+          "name": "AU 16",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 84
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1992,
+          "name": "UK 16",
+          "schema": "UK",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "US 12",
+          "schema": "US",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "AU 16",
+          "schema": "AU",
+          "sortOrder": 45
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 38.0,
+          "text": "£38.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 339.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332737",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/black/image1l.jpg",
+        "size": "l",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/purple/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/purple/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/purple/image1l.jpg",
+        "size": "l",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/purple/image1xl.jpg",
+        "size": "s",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/3/7/2/1332730/purple/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1332730-4-101119043348.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-1-black",
+        "colourCode": "BK1",
+        "colour": "Black",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-1-purple",
+        "colourCode": "PU1",
+        "colour": "Purple",
+        "isPrimary": false,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-catwalk-AVS",
+        "colourCode": "BK1"
+      },
+      {
+        "url": "video.asos-media.com/products/asos-petite-exclusive-lace-insert-ponti-dress/1332730-catwalk-AVS",
+        "colourCode": "PU1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 3789
+    },
+    {
+      "id": 15944
+    },
+    {
+      "id": 19596
+    },
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos-petite/asos-petite-exclusive-lace-insert-ponti-dress/prd/1332730",
+  "statusId": 52000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "lastModified": "2016-10-13T07:06:36.5978347Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 17.0,
+      "text": "£17.00"
+    },
+    "previous": {
+      "value": 38.0,
+      "text": "£38.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": true,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,1803 @@
+{
+  "id": 1249110,
+  "language": "en-GB",
+  "name": "ASOS 80 Denier Tights In Winter White",
+  "description": "<ul><li>80 denier opaque tights.</li></ul>",
+  "fabricConstruction": "Knitted",
+  "materials": "Fabric: 92% Nylon, 8% Elastane.",
+  "additionalInfo": "Fabric: 92% Nylon, 8% Elastane.",
+  "brand": {
+    "name": "ASOS",
+    "brandId": 53
+  },
+  "careInfo": "Handwash and dry separately",
+  "productCode": "ZACAD1249110",
+  "category": "Hosiery",
+  "categoryId": 399,
+  "department": "Accessories WO",
+  "departmentId": 21,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 3648356,
+      "colourCode": "WH1",
+      "sku": "2308314",
+      "colour": "Winter white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Tights",
+          "nameId": 900,
+          "valueId": 1603,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 12",
+          "nameId": 955,
+          "valueId": 2633,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Oct-dec",
+          "nameId": 944,
+          "valueId": 2660,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Mod cons",
+          "nameId": 950,
+          "valueId": 2784,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Ashoslbl",
+          "nameId": 943,
+          "valueId": 3215,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BAGS/PURSES SIZE",
+          "value": "Not Applicable",
+          "nameId": 973,
+          "valueId": 3598,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUIT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 994,
+          "valueId": 3971,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Tights",
+          "nameId": 989,
+          "valueId": 4979,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ACCESSORIES TYPE",
+          "value": "Not Applicable",
+          "nameId": 1026,
+          "valueId": 6195,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XS",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 20
+        },
+        {
+          "name": "XS",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 20
+        },
+        {
+          "name": "XS",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 20
+        },
+        {
+          "name": "XS",
+          "schema": "UK",
+          "text": "UK Size 4-6 waist 58-60.5cm",
+          "sortOrder": 20
+        },
+        {
+          "name": "XS",
+          "schema": "US",
+          "text": "UK Size 4-6 waist 58-60.5cm",
+          "sortOrder": 20
+        },
+        {
+          "name": "XS",
+          "schema": "AU",
+          "text": "UK Size 4-6 waist 58-60.5cm",
+          "sortOrder": 20
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "previous": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 200.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-80-denier-tights-in-winter-white/prd/3648356",
+      "isAvailable": true
+    },
+    {
+      "id": 1249111,
+      "colourCode": "WH1",
+      "sku": "ZACAD1249111",
+      "colour": "Winter white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Tights",
+          "nameId": 900,
+          "valueId": 1603,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 12",
+          "nameId": 955,
+          "valueId": 2633,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Oct-dec",
+          "nameId": 944,
+          "valueId": 2660,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Mod cons",
+          "nameId": 950,
+          "valueId": 2784,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Ashoslbl",
+          "nameId": 943,
+          "valueId": 3215,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BAGS/PURSES SIZE",
+          "value": "Not Applicable",
+          "nameId": 973,
+          "valueId": 3598,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUIT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 994,
+          "valueId": 3971,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Tights",
+          "nameId": 989,
+          "valueId": 4979,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ACCESSORIES TYPE",
+          "value": "Not Applicable",
+          "nameId": 1026,
+          "valueId": 6195,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "UK Size 8-10 waist 63-68cm",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "UK Size 8-10 waist 63-68cm",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "UK Size 8-10 waist 63-68cm",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "54cm / 21 Circumference",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "54cm / 21 Circumference",
+          "sortOrder": 21
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "54cm / 21 Circumference",
+          "sortOrder": 21
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "previous": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 77.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-80-denier-tights-in-winter-white/prd/1249111",
+      "isAvailable": true
+    },
+    {
+      "id": 1249112,
+      "colourCode": "WH1",
+      "sku": "ZACAD1249112",
+      "colour": "Winter white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Tights",
+          "nameId": 900,
+          "valueId": 1603,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 12",
+          "nameId": 955,
+          "valueId": 2633,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Oct-dec",
+          "nameId": 944,
+          "valueId": 2660,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Mod cons",
+          "nameId": 950,
+          "valueId": 2784,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Ashoslbl",
+          "nameId": 943,
+          "valueId": 3215,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BAGS/PURSES SIZE",
+          "value": "Not Applicable",
+          "nameId": 973,
+          "valueId": 3598,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUIT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 994,
+          "valueId": 3971,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Tights",
+          "nameId": 989,
+          "valueId": 4979,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ACCESSORIES TYPE",
+          "value": "Not Applicable",
+          "nameId": 1026,
+          "valueId": 6195,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "UK Size 12-14 waist 73-78cm",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "UK Size 12-14 waist 73-78cm",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "UK Size 12-14 waist 73-78cm",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "56cm / 22 Circumference",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "56cm / 22 Circumference",
+          "sortOrder": 22
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "56cm / 22 Circumference",
+          "sortOrder": 22
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "previous": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 77.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-80-denier-tights-in-winter-white/prd/1249112",
+      "isAvailable": true
+    },
+    {
+      "id": 1249113,
+      "colourCode": "WH1",
+      "sku": "ZACAD1249113",
+      "colour": "Winter white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Tights",
+          "nameId": 900,
+          "valueId": 1603,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Autumn winter 12",
+          "nameId": 955,
+          "valueId": 2633,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Oct-dec",
+          "nameId": 944,
+          "valueId": 2660,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Mod cons",
+          "nameId": 950,
+          "valueId": 2784,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Ashoslbl",
+          "nameId": 943,
+          "valueId": 3215,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BAGS/PURSES SIZE",
+          "value": "Not Applicable",
+          "nameId": 973,
+          "valueId": 3598,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUIT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 994,
+          "valueId": 3971,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTS",
+          "value": "Not Applicable",
+          "nameId": 1005,
+          "valueId": 4189,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Tights",
+          "nameId": 989,
+          "valueId": 4979,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ACCESSORIES TYPE",
+          "value": "Not Applicable",
+          "nameId": 1026,
+          "valueId": 6195,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "UK Size 16-18 waist 83-90.5cm",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "UK Size 16-18 waist 83-90.5cm",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "UK Size 16-18 waist 83-90.5cm",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "58cm / 23 Circumference",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "58cm / 23 Circumference",
+          "sortOrder": 23
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "58cm / 23 Circumference",
+          "sortOrder": 23
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "previous": {
+          "value": 6.0,
+          "text": "£6.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 77.0,
+      "isPrimary": true,
+      "navigateUrl": "/asos/asos-80-denier-tights-in-winter-white/prd/1249113",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/winterwhite/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/winterwhite/image1xl.jpg",
+        "size": "s",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/winterwhite/image1l.jpg",
+        "size": "l",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/winterwhite/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/winterwhite/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/1/1/9/1249110/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-80-denier-tights-in-winter-white/1249110-1-winterwhite",
+        "colourCode": "WH1",
+        "colour": "Winter white",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-80-denier-tights-in-winter-white/1249110-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 7657
+    },
+    {
+      "id": 14264
+    },
+    {
+      "id": 15183
+    },
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos/asos-80-denier-tights-in-winter-white/prd/1249110",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2013-06-03T09:54:36Z",
+  "lastModified": "2016-10-16T22:00:50.5912245Z",
+  "lastTranslationModified": "2016-02-10T10:01:30.39Z",
+  "associatedProductGroups": [
+    {
+      "id": 1249110,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 6.0,
+      "text": "£6.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

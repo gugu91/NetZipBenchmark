@@ -1,0 +1,693 @@
+{
+  "id": 570700,
+  "language": "en-GB",
+  "name": "Havaianas Brasil Flip-Flops",
+  "description": "<ul><li>Classic flip flops by Havaianas</li><li>Rubber toe post with logo detail</li><li>Contrast stripe detail to sole</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Upper: manmade  Inner: manmade  Sole: manmade  ",
+  "additionalInfo": "Upper: manmade\r\nInner: manmade\r\nSole: manmade\r\n",
+  "brand": {
+    "name": "Havaianas",
+    "brandId": 274
+  },
+  "careInfo": "To maintain appearance and condition, remove light marks with a clean damp sponge",
+  "productCode": "WBXAF570700",
+  "category": "Summer Shoes",
+  "categoryId": 3420,
+  "department": "Footwear MB",
+  "departmentId": 3417,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": false,
+  "variants": [
+    {
+      "id": 570702,
+      "colourCode": "WH1",
+      "sku": "WBXAF570702",
+      "colour": "White",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Not Applicable",
+          "nameId": 911,
+          "valueId": 3252,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Not Applicable",
+          "nameId": 1014,
+          "valueId": 4635,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 987,
+          "valueId": 5460,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 9-10",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 18
+        },
+        {
+          "name": "US 12.5",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 18
+        },
+        {
+          "name": "EU 47",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 18
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2331,
+          "name": "[UK 9]",
+          "schema": "UK",
+          "sortOrder": 137
+        },
+        {
+          "id": 2331,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 137
+        },
+        {
+          "id": 2331,
+          "name": "AU 9",
+          "schema": "AU",
+          "sortOrder": 137
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 1.0,
+          "text": "£1.00"
+        },
+        "previous": {
+          "value": 15.0,
+          "text": "£15.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 535.0,
+      "isPrimary": true,
+      "navigateUrl": "/havaianas/havaianas-brasil-flip-flops/prd/570702",
+      "isAvailable": true
+    },
+    {
+      "id": 570703,
+      "colourCode": "WH1",
+      "sku": "WBXAF570703",
+      "colour": "White",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Shoes",
+          "nameId": 900,
+          "valueId": 1562,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Not Applicable",
+          "nameId": 911,
+          "valueId": 3252,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Not Applicable",
+          "nameId": 1014,
+          "valueId": 4635,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Not Applicable",
+          "nameId": 987,
+          "valueId": 5460,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 11-12",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 21
+        },
+        {
+          "name": "US 12-13",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 21
+        },
+        {
+          "name": "AU 11-12",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 21
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2324,
+          "name": "[UK 11]",
+          "schema": "UK",
+          "sortOrder": 141
+        },
+        {
+          "id": 2324,
+          "name": "US 12",
+          "schema": "US",
+          "sortOrder": 141
+        },
+        {
+          "id": 2324,
+          "name": "AU 11",
+          "schema": "AU",
+          "sortOrder": 141
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 1.0,
+          "text": "£1.00"
+        },
+        "previous": {
+          "value": 15.0,
+          "text": "£15.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 535.0,
+      "isPrimary": true,
+      "navigateUrl": "/havaianas/havaianas-brasil-flip-flops/prd/570703",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Yellow/image1l.jpg",
+        "size": "l",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Yellow/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Yellow/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Yellow/image1xl.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Yellow/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Black/image1xl.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Black/image1l.jpg",
+        "size": "l",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Black/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Black/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Black/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Grey/image1xl.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Grey/image1l.jpg",
+        "size": "l",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Grey/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Grey/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/Grey/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/White/image1xl.jpg",
+        "size": "s",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/White/image1l.jpg",
+        "size": "l",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/White/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/White/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/White/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/W/72/730/570700/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/570700-4-090304053055.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/havaianas-brasil-flip-flops/570700-1-white",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/havaianas-brasil-flip-flops/570700-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/havaianas-brasil-flip-flops/570700-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/havaianas-brasil-flip-flops/570700-spinset",
+        "colourCode": "WH1"
+      }
+    ]
+  },
+  "webCategoryIds": [
+    {
+      "id": 1935
+    },
+    {
+      "id": 16680
+    },
+    {
+      "id": 23041
+    }
+  ],
+  "navigateUrl": "/havaianas/havaianas-brasil-flip-flops/prd/570700",
+  "statusId": 52000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "supplierRef": "1",
+  "lastModified": "2016-10-14T10:49:07.9315069Z",
+  "lastTranslationModified": "2016-04-19T06:15:26.633Z",
+  "associatedProductGroups": [
+    {
+      "id": 570700,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 1.0,
+      "text": "£1.00"
+    },
+    "previous": {
+      "value": 15.0,
+      "text": "£15.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": true,
+    "isOutletPrice": false
+  }
+}

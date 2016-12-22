@@ -1,0 +1,2005 @@
+{
+  "id": 1159176,
+  "language": "en-GB",
+  "name": "Calvin Klein 3 Pack Trunks Low Rise",
+  "description": "<a href=\" /Men/Underwear-Socks/Underwear-Packs/Cat/pgecategory.aspx?cid=14655\"><strong>Underwear pack</strong></a> by <a href=\"/Men/A-To-Z-Of-Brands/Calvin-Klein/Cat/pgecategory.aspx?cid=2038\"><strong>Calvin Klein</strong></a><ul><li>Made from stretch cotton jersey</li><li>Breathable soft touch fabric</li><li>Branded stretch waistband</li><li>Pack of three</li></ul>",
+  "fabricConstruction": "Knitted",
+  "materials": "Body: 95% Cotton, 5% Elastane.",
+  "additionalInfo": "Body: 95% Cotton, 5% Elastane",
+  "brand": {
+    "name": "Calvin Klein",
+    "description": "With a rich company history spanning back to 1968, <a href=\"/Men/A-To-Z-Of-Brands/Calvin-Klein/Cat/pgecategory.aspx?cid=2038\"><strong>Calvin Klein</strong></a> originally started life as a coat store in New York City. The now iconic label, famed for their minimalist approach, offers up covetable diffusion lines <a href=\"/Men/A-To-Z-Of-Brands/Calvin-Klein/Cat/pgecategory.aspx?cid=2038\"><strong>CK by Calvin Klein</strong></a> and <a href=\"/Men/A-To-Z-Of-Brands/Calvin-Klein/Cat/pgecategory.aspx?cid=2038\"><strong>Calvin Klein Jeans</strong></a>, both of which channel the label's inimitable style.",
+    "brandId": 105
+  },
+  "careInfo": "Machine wash according to instructions on care label",
+  "productCode": "YCXAB1159176",
+  "category": "Trunks",
+  "categoryId": 892,
+  "department": "Underwear MB",
+  "departmentId": 129,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1159177,
+      "colourCode": "MU1",
+      "sku": "YCXAB1159177",
+      "colour": "Multi",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Underwear",
+          "nameId": 900,
+          "valueId": 1616,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Not Applicable",
+          "nameId": 941,
+          "valueId": 2450,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Bruno",
+          "nameId": 951,
+          "valueId": 2863,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:40.97Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Not Applicable",
+          "nameId": 934,
+          "valueId": 3257,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Not Applicable",
+          "nameId": 961,
+          "valueId": 3321,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Trunks and Hipsters",
+          "nameId": 989,
+          "valueId": 5555,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Hipsters",
+          "nameId": 1014,
+          "valueId": 5831,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Valentines",
+          "nameId": 1020,
+          "valueId": 5991,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Yes",
+          "nameId": 1021,
+          "valueId": 5997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Not Applicable",
+          "nameId": 1030,
+          "valueId": 6692,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "3 Packs",
+          "nameId": 1032,
+          "valueId": 7025,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "W28-30in (71-76cm)",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 23
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 23
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "UK",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "US",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "AU",
+          "sortOrder": 158
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 268.0,
+      "isPrimary": true,
+      "navigateUrl": "/calvin-klein/calvin-klein-3-pack-trunks-low-rise/prd/1159177",
+      "isAvailable": true
+    },
+    {
+      "id": 1159178,
+      "colourCode": "MU1",
+      "sku": "YCXAB1159178",
+      "colour": "Multi",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Underwear",
+          "nameId": 900,
+          "valueId": 1616,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Not Applicable",
+          "nameId": 941,
+          "valueId": 2450,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Bruno",
+          "nameId": 951,
+          "valueId": 2863,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:40.97Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Not Applicable",
+          "nameId": 934,
+          "valueId": 3257,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Not Applicable",
+          "nameId": 961,
+          "valueId": 3321,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Trunks and Hipsters",
+          "nameId": 989,
+          "valueId": 5555,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Hipsters",
+          "nameId": 1014,
+          "valueId": 5831,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Valentines",
+          "nameId": 1020,
+          "valueId": 5991,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Yes",
+          "nameId": 1021,
+          "valueId": 5997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Not Applicable",
+          "nameId": 1030,
+          "valueId": 6692,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "3 Packs",
+          "nameId": 1032,
+          "valueId": 7025,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "W30-32in (76-81cm)",
+          "sortOrder": 24
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "UK",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "US",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "AU",
+          "sortOrder": 160
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 268.0,
+      "isPrimary": true,
+      "navigateUrl": "/calvin-klein/calvin-klein-3-pack-trunks-low-rise/prd/1159178",
+      "isAvailable": true
+    },
+    {
+      "id": 1159179,
+      "colourCode": "MU1",
+      "sku": "YCXAB1159179",
+      "colour": "Multi",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Underwear",
+          "nameId": 900,
+          "valueId": 1616,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Not Applicable",
+          "nameId": 941,
+          "valueId": 2450,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Bruno",
+          "nameId": 951,
+          "valueId": 2863,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:40.97Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Not Applicable",
+          "nameId": 934,
+          "valueId": 3257,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Not Applicable",
+          "nameId": 961,
+          "valueId": 3321,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Trunks and Hipsters",
+          "nameId": 989,
+          "valueId": 5555,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Hipsters",
+          "nameId": 1014,
+          "valueId": 5831,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Valentines",
+          "nameId": 1020,
+          "valueId": 5991,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Yes",
+          "nameId": 1021,
+          "valueId": 5997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Not Applicable",
+          "nameId": 1030,
+          "valueId": 6692,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "3 Packs",
+          "nameId": 1032,
+          "valueId": 7025,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "W36-38in (91-96cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "W32-34in (81-86cm)",
+          "sortOrder": 25
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "US",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "AU",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 268.0,
+      "isPrimary": true,
+      "navigateUrl": "/calvin-klein/calvin-klein-3-pack-trunks-low-rise/prd/1159179",
+      "isAvailable": true
+    },
+    {
+      "id": 1159180,
+      "colourCode": "MU1",
+      "sku": "YCXAB1159180",
+      "colour": "Multi",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Underwear",
+          "nameId": 900,
+          "valueId": 1616,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Plain",
+          "nameId": 925,
+          "valueId": 2370,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Not Applicable",
+          "nameId": 941,
+          "valueId": 2450,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Premium",
+          "nameId": 954,
+          "valueId": 2629,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Bruno",
+          "nameId": 951,
+          "valueId": 2863,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:40.97Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FIT",
+          "value": "Not Applicable",
+          "nameId": 934,
+          "valueId": 3257,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SLEEVE LENGTH",
+          "value": "Not Applicable",
+          "nameId": 961,
+          "valueId": 3321,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "No",
+          "nameId": 965,
+          "valueId": 3438,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "No",
+          "nameId": 978,
+          "valueId": 3631,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "No",
+          "nameId": 982,
+          "valueId": 3683,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT CLASSIFICATION",
+          "value": "Core",
+          "nameId": 987,
+          "valueId": 3777,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Not Applicable",
+          "nameId": 993,
+          "valueId": 3904,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Trunks and Hipsters",
+          "nameId": 989,
+          "valueId": 5555,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Hipsters",
+          "nameId": 1014,
+          "valueId": 5831,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Valentines",
+          "nameId": 1020,
+          "valueId": 5991,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Yes",
+          "nameId": 1021,
+          "valueId": 5997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LOUNGEWEAR TYPE",
+          "value": "Not Applicable",
+          "nameId": 1030,
+          "valueId": 6692,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "3 Packs",
+          "nameId": 1032,
+          "valueId": 7025,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CUSTOMER SEGMENTATION",
+          "value": "Not Applicable",
+          "nameId": 1033,
+          "valueId": 7091,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "W40-42in (101-106cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "UK",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "US",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        },
+        {
+          "name": "XL",
+          "schema": "AU",
+          "text": "W34-36in (86-91cm)",
+          "sortOrder": 26
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "UK",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "US",
+          "sortOrder": 162
+        },
+        {
+          "id": 1881,
+          "name": "XL",
+          "schema": "AU",
+          "sortOrder": 162
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "previous": {
+          "value": 35.0,
+          "text": "£35.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 268.0,
+      "isPrimary": true,
+      "navigateUrl": "/calvin-klein/calvin-klein-3-pack-trunks-low-rise/prd/1159180",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/multi/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/multi/image1xl.jpg",
+        "size": "s",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/multi/image1l.jpg",
+        "size": "l",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/multi/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/multi/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/6/7/1/9/1159176/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/calvin-klein-3-pack-trunks-low-rise/1159176-1-multi",
+        "colourCode": "MU1",
+        "colour": "Multi",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/calvin-klein-3-pack-trunks-low-rise/1159176-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/calvin-klein-3-pack-trunks-low-rise/1159176-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/calvin-klein-3-pack-trunks-low-rise/1159176-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 4030
+    },
+    {
+      "id": 14655
+    },
+    {
+      "id": 15999
+    },
+    {
+      "id": 17477
+    },
+    {
+      "id": 20041
+    },
+    {
+      "id": 20317
+    },
+    {
+      "id": 20831
+    },
+    {
+      "id": 21221
+    }
+  ],
+  "navigateUrl": "/calvin-klein/calvin-klein-3-pack-trunks-low-rise/prd/1159176",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2016-06-08T01:52:34Z",
+  "supplierRef": "U2664G 998",
+  "lastModified": "2016-10-16T20:30:00.949081Z",
+  "lastTranslationModified": "2016-02-09T12:27:29.67Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 35.0,
+      "text": "£35.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

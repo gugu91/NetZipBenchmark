@@ -1,0 +1,1349 @@
+{
+  "id": 1324494,
+  "language": "en-GB",
+  "name": "ASOS PETITE Embellished Collar Shift Dress",
+  "description": "<ul><li>Shift <a href=\" /Women/Petite/Dresses/Cat/pgecategory.aspx?cid=8350\"><strong>dress</strong></a> by <a href=\" /Women/Petite/Cat/pgecategory.aspx?cid=4177\"><strong>ASOS PETITE</strong></a>. Featuring a contrast peter pan style collar with bead embellishment and a keyhole design to reverse and a button fastening.<br><br>Also available in <a href=\"/Asos/Asos-Embellished-Collar-Shift-Dress/Prod/pgeproduct.aspx?iid=1321879\"><b>main range </b></a></li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "100% Polyester",
+  "additionalInfo": "100% Polyester\r\n\r\nSize 10 side neck to hem measures: 79cm/31in",
+  "brand": {
+    "name": "ASOS Petite",
+    "brandId": 13512
+  },
+  "careInfo": "Hand wash separately",
+  "productCode": "YFPED1324494",
+  "category": "Dresses - Evening",
+  "categoryId": 346,
+  "department": "Petites WO",
+  "departmentId": 92,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1324502,
+      "colourCode": "YE1",
+      "sku": "YFPED1324502",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 4",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 78
+        },
+        {
+          "name": "US 0",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 78
+        },
+        {
+          "name": "AU 4",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 78
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1878,
+          "name": "UK 4",
+          "schema": "UK",
+          "sortOrder": 8
+        },
+        {
+          "id": 1878,
+          "name": "US 1",
+          "schema": "US",
+          "sortOrder": 8
+        },
+        {
+          "id": 1878,
+          "name": "AU 4",
+          "schema": "AU",
+          "sortOrder": 8
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324502",
+      "isAvailable": true
+    },
+    {
+      "id": 1324503,
+      "colourCode": "YE1",
+      "sku": "YFPED1324503",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 6",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "US 2",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "AU 6",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 79
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1924,
+          "name": "UK 6",
+          "schema": "UK",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "US 2",
+          "schema": "US",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "AU 6",
+          "schema": "AU",
+          "sortOrder": 13
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324503",
+      "isAvailable": true
+    },
+    {
+      "id": 1324504,
+      "colourCode": "YE1",
+      "sku": "YFPED1324504",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 8",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 80
+        },
+        {
+          "name": "US 4",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 80
+        },
+        {
+          "name": "AU 8",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 80
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "US 4",
+          "schema": "US",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "AU 8",
+          "schema": "AU",
+          "sortOrder": 20
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324504",
+      "isAvailable": true
+    },
+    {
+      "id": 1324505,
+      "colourCode": "YE1",
+      "sku": "YFPED1324505",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 10",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 81
+        },
+        {
+          "name": "US 6",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 81
+        },
+        {
+          "name": "AU 10",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 81
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "US 6",
+          "schema": "US",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 27
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324505",
+      "isAvailable": true
+    },
+    {
+      "id": 1324506,
+      "colourCode": "YE1",
+      "sku": "YFPED1324506",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 12",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 82
+        },
+        {
+          "name": "US 8",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 82
+        },
+        {
+          "name": "AU 12",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 82
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324506",
+      "isAvailable": true
+    },
+    {
+      "id": 1324507,
+      "colourCode": "YE1",
+      "sku": "YFPED1324507",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 14",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 83
+        },
+        {
+          "name": "US 10",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 83
+        },
+        {
+          "name": "AU 14",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 83
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1920,
+          "name": "UK 14",
+          "schema": "UK",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "AU 14",
+          "schema": "AU",
+          "sortOrder": 39
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324507",
+      "isAvailable": true
+    },
+    {
+      "id": 1324508,
+      "colourCode": "YE1",
+      "sku": "YFPED1324508",
+      "colour": "Mustard",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Dresses",
+          "nameId": 900,
+          "valueId": 1465,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Embellished",
+          "nameId": 925,
+          "valueId": 2304,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Nov/dec",
+          "nameId": 944,
+          "valueId": 2659,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MULTIPACK",
+          "value": "Not Applicable",
+          "nameId": 1032,
+          "valueId": 7030,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 16",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 84
+        },
+        {
+          "name": "US 12",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 84
+        },
+        {
+          "name": "AU 16",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 84
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1992,
+          "name": "UK 16",
+          "schema": "UK",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "US 12",
+          "schema": "US",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "AU 16",
+          "schema": "AU",
+          "sortOrder": 45
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 14.0,
+          "text": "£14.00"
+        },
+        "previous": {
+          "value": 46.0,
+          "text": "£46.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 168.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324508",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/mustard/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/mustard/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/mustard/image1l.jpg",
+        "size": "l",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/mustard/image1xl.jpg",
+        "size": "s",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/mustard/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/navy/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/navy/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/navy/image1l.jpg",
+        "size": "l",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/navy/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/navy/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/4/9/4/4/1324494/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-embellished-collar-shift-dress/1324494-1-mustard",
+        "colourCode": "YE1",
+        "colour": "Mustard",
+        "isPrimary": false,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-embellished-collar-shift-dress/1324494-1-navy",
+        "colourCode": "BL1",
+        "colour": "Navy",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-embellished-collar-shift-dress/1324494-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-embellished-collar-shift-dress/1324494-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-petite-embellished-collar-shift-dress/1324494-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 3789
+    },
+    {
+      "id": 15944
+    },
+    {
+      "id": 19596
+    },
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos-petite/asos-petite-embellished-collar-shift-dress/prd/1324494",
+  "statusId": 52000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "supplierRef": "GOD1262",
+  "lastModified": "2016-10-13T07:05:14.3836078Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 14.0,
+      "text": "£14.00"
+    },
+    "previous": {
+      "value": 46.0,
+      "text": "£46.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": true,
+    "isOutletPrice": false
+  }
+}

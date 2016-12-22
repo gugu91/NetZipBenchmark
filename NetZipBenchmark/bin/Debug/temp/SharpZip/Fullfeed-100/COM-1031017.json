@@ -1,0 +1,2204 @@
+{
+  "id": 1031017,
+  "language": "en-GB",
+  "name": "Adidas Addilette Side Flip Flops",
+  "description": "<ul><li>Men's flip flops by Adidas</li><li>Contrast stripe to the front</li><li>Slip on style with shaped sole</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Upper: man made  Inner: man made  Sole: man made  ",
+  "additionalInfo": "Upper: man made\r\nInner: man made\r\nSole: man made\r\n",
+  "brand": {
+    "name": "Adidas",
+    "brandId": 17
+  },
+  "careInfo": "To maintain appearance and condition, remove light marks with a clean damp sponge",
+  "productCode": "XBXAF1031017",
+  "category": "Summer Shoes",
+  "categoryId": 2055,
+  "department": "Sneaker Brands Footwear MB",
+  "departmentId": 2003,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1031018,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031018",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 7",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "US 8",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 79
+        },
+        {
+          "name": "AU 7",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 79
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2325,
+          "name": "[UK 7]",
+          "schema": "UK",
+          "sortOrder": 133
+        },
+        {
+          "id": 2325,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 133
+        },
+        {
+          "id": 2325,
+          "name": "AU 7",
+          "schema": "AU",
+          "sortOrder": 133
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031018",
+      "isAvailable": true
+    },
+    {
+      "id": 1031019,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031019",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 8",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 101
+        },
+        {
+          "name": "US 9",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 101
+        },
+        {
+          "name": "AU 8",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 101
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2337,
+          "name": "[UK 8]",
+          "schema": "UK",
+          "sortOrder": 135
+        },
+        {
+          "id": 2337,
+          "name": "US 9",
+          "schema": "US",
+          "sortOrder": 135
+        },
+        {
+          "id": 2337,
+          "name": "AU 8",
+          "schema": "AU",
+          "sortOrder": 135
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031019",
+      "isAvailable": true
+    },
+    {
+      "id": 1031020,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031020",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 9",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 123
+        },
+        {
+          "name": "US 10",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 123
+        },
+        {
+          "name": "AU 9",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 123
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2331,
+          "name": "[UK 9]",
+          "schema": "UK",
+          "sortOrder": 137
+        },
+        {
+          "id": 2331,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 137
+        },
+        {
+          "id": 2331,
+          "name": "AU 9",
+          "schema": "AU",
+          "sortOrder": 137
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031020",
+      "isAvailable": true
+    },
+    {
+      "id": 1031021,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031021",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 10",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 137
+        },
+        {
+          "name": "US 11",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 137
+        },
+        {
+          "name": "AU 10",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 137
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2323,
+          "name": "[UK 10]",
+          "schema": "UK",
+          "sortOrder": 139
+        },
+        {
+          "id": 2323,
+          "name": "US 11",
+          "schema": "US",
+          "sortOrder": 139
+        },
+        {
+          "id": 2323,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 139
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031021",
+      "isAvailable": true
+    },
+    {
+      "id": 1031022,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031022",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 11",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 163
+        },
+        {
+          "name": "US 12",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 163
+        },
+        {
+          "name": "AU 11",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 163
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2324,
+          "name": "[UK 11]",
+          "schema": "UK",
+          "sortOrder": 141
+        },
+        {
+          "id": 2324,
+          "name": "US 12",
+          "schema": "US",
+          "sortOrder": 141
+        },
+        {
+          "id": 2324,
+          "name": "AU 11",
+          "schema": "AU",
+          "sortOrder": 141
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031022",
+      "isAvailable": true
+    },
+    {
+      "id": 1031023,
+      "colourCode": "BL1",
+      "sku": "XBXAF1031023",
+      "colour": "Navy/white",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Flip Flops",
+          "nameId": 900,
+          "valueId": 1472,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "LEATHER/NON LEATHER",
+          "value": "Non Leather",
+          "nameId": 911,
+          "valueId": 2256,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Logo",
+          "nameId": 925,
+          "valueId": 2324,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 10",
+          "nameId": 955,
+          "valueId": 2632,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Mar/apr",
+          "nameId": 944,
+          "valueId": 2652,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 952,
+          "valueId": 3187,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:38:14.51Z"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "Not Applicable",
+          "nameId": 974,
+          "valueId": 3604,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NON CLOTHING",
+          "nameId": 1010,
+          "valueId": 4563,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "Sliders/Flip Flop",
+          "nameId": 1014,
+          "valueId": 5238,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Not Applicable",
+          "nameId": 966,
+          "valueId": 5459,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "Not Applicable",
+          "nameId": 1008,
+          "valueId": 5462,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "Not Applicable",
+          "nameId": 971,
+          "valueId": 5463,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "Not Applicable",
+          "nameId": 984,
+          "valueId": 5464,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Not Applicable",
+          "nameId": 943,
+          "valueId": 5465,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SALE BUY",
+          "value": "Not Applicable",
+          "nameId": 982,
+          "valueId": 5468,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "Not Applicable",
+          "nameId": 954,
+          "valueId": 5472,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "High Summer",
+          "nameId": 1020,
+          "valueId": 5992,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "No",
+          "nameId": 1021,
+          "valueId": 5996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SUB CATEGORIES",
+          "value": "Flip Flops",
+          "nameId": 993,
+          "valueId": 6361,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT FIT",
+          "value": "Not Applicable",
+          "nameId": 1029,
+          "valueId": 6537,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Flip Flops & Sliders",
+          "nameId": 989,
+          "valueId": 6575,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 12",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 188
+        },
+        {
+          "name": "US 13",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 188
+        },
+        {
+          "name": "AU 12",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 188
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2326,
+          "name": "[UK 12]",
+          "schema": "UK",
+          "sortOrder": 143
+        },
+        {
+          "id": 2326,
+          "name": "US 13",
+          "schema": "US",
+          "sortOrder": 143
+        },
+        {
+          "id": 2326,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 143
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 13.0,
+          "text": "£13.00"
+        },
+        "previous": {
+          "value": 18.0,
+          "text": "£18.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 550.0,
+      "isPrimary": true,
+      "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031023",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/navywhite/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/navywhite/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/navywhite/image1l.jpg",
+        "size": "l",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/navywhite/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/navywhite/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/x/72/730/1031017/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1031017-4-100407030303.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/adidas-addilette-side-flip-flops/1031017-1-navywhite",
+        "colourCode": "BL1",
+        "colour": "Navy/white",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/adidas-addilette-side-flip-flops/1031017-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/adidas-addilette-side-flip-flops/1031017-spinset",
+        "colourCode": "BL1"
+      }
+    ]
+  },
+  "webCategoryIds": [],
+  "navigateUrl": "/adidas/adidas-addilette-side-flip-flops/prd/1031017",
+  "statusId": 52000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "supplierRef": "288022",
+  "lastModified": "2016-10-14T10:39:56.5302243Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 13.0,
+      "text": "£13.00"
+    },
+    "previous": {
+      "value": 18.0,
+      "text": "£18.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": true,
+    "isOutletPrice": false
+  }
+}

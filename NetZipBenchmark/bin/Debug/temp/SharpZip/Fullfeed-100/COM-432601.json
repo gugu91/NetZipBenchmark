@@ -1,0 +1,596 @@
+{
+  "id": 432601,
+  "language": "en-GB",
+  "name": "Michael Kors Ritz Glitz Silver Chronograph Watch MK5020",
+  "description": "<a href=\"/Women/Watches/Cat/pgecategory.aspx?cid=5088\"><strong>Watch</strong></a> by <a href=\"/Women/A-To-Z-Of-Brands/Michael-Kors/Cat/pgecategory.aspx?cid=6827\"><strong>Michael Kors</strong></a><ul>    <li>Stainless steel strap and case&nbsp;</li>    <li>Three hand movement</li>    <li>Sub-dial, chronograph design&nbsp;</li>    <li>Date window</li>    <li>Diamante indices</li><li>Single crown and two function buttons to side&nbsp;</li>    <li>Deployment clasp fastening</li>    <li>10ATM: water resistant to 100 metres (330 feet)</li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "materials": "Main: 100% Stainless steel, Strap: 100% Stainless steel.",
+  "additionalInfo": "Model: MK5020<br>2 Year Manufacturer Warranty<br>Case: Stainless Steel&nbsp;<br>Case Width: 36mm<br>Case Depth: 13mm<br>Strap: Stainless Steel&nbsp;<br>Fastening: Deployment Clasp&nbsp;<br>Movement: Quartz&nbsp;<br>10ATM: water resistant to 100 metres (330 feet)<br>",
+  "brand": {
+    "name": "Michael Kors",
+    "description": "The epitome of all-American sophistication, <a href=\"/Women/A-To-Z-Of-Brands/Michael-Kors/Cat/pgecategory.aspx?cid=6827\"><strong>Michael Kors</strong></a> founded his eponymous label in 1981. Channelling a vision of sleekly polished sportswear; <a href=\"/Women/A-To-Z-Of-Brands/Michael-Kors/Cat/pgecategory.aspx?cid=6827\"><strong>Michael Kors</strong></a> designs collections for both men and women, as well as a range of luxury accessories with a jet-set attitude. Testament to the label's ethos, the <a href=\"/Women/A-To-Z-Of-Brands/Michael-Kors/Cat/pgecategory.aspx?cid=6827\"><strong>Michael Kors collection</strong></a> features a slick range of statement watches alongside a timeless edit of oversized sunglasses and aviator frames.",
+    "brandId": 457
+  },
+  "careInfo": "100m water resistance",
+  "productCode": "QBWAE432601",
+  "category": "Watches",
+  "categoryId": 950,
+  "department": "Jewellery WB",
+  "departmentId": 71,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 432602,
+      "colourCode": "SI1",
+      "sku": "QBWAE432602",
+      "colour": "Silver",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Watches",
+          "nameId": 900,
+          "valueId": 1624,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Not Applicable",
+          "nameId": 925,
+          "valueId": 2350,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "VALUE/HIGH STREET/PREMIUM",
+          "value": "High Street",
+          "nameId": 954,
+          "valueId": 2627,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ORIGINAL SEASON",
+          "value": "Spring summer 12",
+          "nameId": 955,
+          "valueId": 2636,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Not Applicable",
+          "nameId": 956,
+          "valueId": 2690,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (MEN'S)",
+          "value": "Not Applicable",
+          "nameId": 949,
+          "valueId": 2753,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Tbc",
+          "nameId": 952,
+          "valueId": 2993,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.633Z"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Not Applicable",
+          "nameId": 951,
+          "valueId": 2996,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.643Z"
+        },
+        {
+          "name": "CARE LABELS",
+          "value": "Brands",
+          "nameId": 943,
+          "valueId": 3227,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COTTON INITIATIVE",
+          "value": "Not Applicable",
+          "nameId": 921,
+          "valueId": 3230,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ECO EDIT",
+          "value": "Not Applicable",
+          "nameId": 928,
+          "valueId": 3239,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "JEWELLERY FINISH",
+          "value": "Not Applicable",
+          "nameId": 919,
+          "valueId": 3259,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MAGAZINE",
+          "value": "Not Applicable",
+          "nameId": 960,
+          "valueId": 3280,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FLOW",
+          "value": "Yes",
+          "nameId": 966,
+          "valueId": 3477,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ELECTRICAL EQUIPMENT",
+          "value": "Electrical Equipment",
+          "nameId": 967,
+          "valueId": 3531,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "value": "NO",
+          "nameId": 971,
+          "valueId": 3581,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GOLD SEAL/BLIND GOLD SEAL",
+          "value": "GOLD SEALED",
+          "nameId": 974,
+          "valueId": 3605,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "CTL - STYLING ITEM",
+          "value": "NO",
+          "nameId": 984,
+          "valueId": 3701,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "COMMUNITY",
+          "value": "No",
+          "nameId": 1008,
+          "valueId": 4204,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "JEWELLERY ANALYSIS TYPE",
+          "value": "Metal Watch",
+          "nameId": 918,
+          "valueId": 4220,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE DESTINATION",
+          "value": "NOT CHINA",
+          "nameId": 1010,
+          "valueId": 4248,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Watches",
+          "nameId": 989,
+          "valueId": 5036,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "GIFTING",
+          "value": "Not Applicable",
+          "nameId": 978,
+          "valueId": 5454,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "EXCLUSIVE",
+          "value": "Not Applicable",
+          "nameId": 965,
+          "valueId": 5456,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SEASONAL EVENT",
+          "value": "Not Applicable",
+          "nameId": 1020,
+          "valueId": 5994,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "BACK TO SCHOOL",
+          "value": "Not Applicable",
+          "nameId": 1021,
+          "valueId": 5995,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FESTIVAL",
+          "value": "Not Applicable",
+          "nameId": 1022,
+          "valueId": 5999,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "OCCASION & GOING OUT",
+          "value": "Not Applicable",
+          "nameId": 1024,
+          "valueId": 6022,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "ACCESSORIES TYPE",
+          "value": "Not Applicable",
+          "nameId": 1026,
+          "valueId": 6195,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WORKWEAR DRESS CODE",
+          "value": "Not Applicable",
+          "nameId": 1031,
+          "valueId": 6931,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "No Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 9
+        },
+        {
+          "name": "No Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 9
+        },
+        {
+          "name": "No Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 9
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 148.0,
+          "text": "£148.00"
+        },
+        "previous": {
+          "value": 148.0,
+          "text": "£148.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 432.0,
+      "isPrimary": true,
+      "navigateUrl": "/michael-kors/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/prd/432602",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/silver/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/silver/image1xl.jpg",
+        "size": "s",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/silver/image1l.jpg",
+        "size": "l",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/silver/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/silver/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/0/6/2/432601/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "threeSixty": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/432601-4-160811031356.swf",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/432601-1-silver",
+        "colourCode": "SI1",
+        "colour": "Silver",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/432601-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/432601-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": [
+      {
+        "url": "s7testing-images.asos-media.com/products/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/432601-spinset",
+        "colourCode": "SI1"
+      }
+    ]
+  },
+  "webCategoryIds": [
+    {
+      "id": 4175
+    },
+    {
+      "id": 5088
+    },
+    {
+      "id": 6928
+    },
+    {
+      "id": 11325
+    },
+    {
+      "id": 11326
+    },
+    {
+      "id": 11329
+    },
+    {
+      "id": 14513
+    },
+    {
+      "id": 15210
+    },
+    {
+      "id": 21253
+    }
+  ],
+  "navigateUrl": "/michael-kors/michael-kors-ritz-glitz-silver-chronograph-watch-mk5020/prd/432601",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-02-03T01:46:09Z",
+  "supplierRef": "MK5020",
+  "lastModified": "2016-10-16T18:23:57.1550855Z",
+  "lastTranslationModified": "2016-08-09T15:19:42.54Z",
+  "associatedProductGroups": [
+    {
+      "id": 432601,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 148.0,
+      "text": "£148.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

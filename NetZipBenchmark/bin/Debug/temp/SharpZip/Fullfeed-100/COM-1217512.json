@@ -1,0 +1,617 @@
+{
+  "id": 1217512,
+  "language": "en-GB",
+  "name": "All Saints Fight Club Polo",
+  "description": "<ul><li>Favoured by the likes of the Kings of Leon, Brit label All Saints are renowned for their dishevelled cool styles with a rock n’ roll edge. This polo shirt is a classic, with button-through placket and contrast embroidered logo design.</li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "100% Cotton    Model wears a size Medium",
+  "additionalInfo": "100% Cotton\r\n\r\nModel wears a size Medium",
+  "brand": {
+    "name": "AllSaints",
+    "brandId": 12791
+  },
+  "careInfo": "30 degree machine wash, do not use\r\nbleach, do not tumble dry, warm \r\niron, do not dry clean\r\n",
+  "productCode": "YBVAP1217512",
+  "category": "Polos",
+  "categoryId": 2190,
+  "department": "Prem Trend MB",
+  "departmentId": 2184,
+  "division": "Menswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 1217513,
+      "colourCode": "WH1",
+      "sku": "YBVAP1217513",
+      "colour": "White",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Polo Shirts",
+          "nameId": 900,
+          "valueId": 2212,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-june",
+          "nameId": 944,
+          "valueId": 2643,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Polo",
+          "nameId": 941,
+          "valueId": 5977,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "S",
+          "schema": "UK",
+          "text": "Chest 91-96cm",
+          "sortOrder": 33
+        },
+        {
+          "name": "S",
+          "schema": "US",
+          "text": "Chest 91-96cm",
+          "sortOrder": 33
+        },
+        {
+          "name": "S",
+          "schema": "AU",
+          "text": "Chest 91-96cm",
+          "sortOrder": 33
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "UK",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "US",
+          "sortOrder": 158
+        },
+        {
+          "id": 1873,
+          "name": "S",
+          "schema": "AU",
+          "sortOrder": 158
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "previous": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 290.0,
+      "isPrimary": true,
+      "navigateUrl": "/allsaints/all-saints-fight-club-polo/prd/1217513",
+      "isAvailable": true
+    },
+    {
+      "id": 1217514,
+      "colourCode": "WH1",
+      "sku": "YBVAP1217514",
+      "colour": "White",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Polo Shirts",
+          "nameId": 900,
+          "valueId": 2212,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-june",
+          "nameId": 944,
+          "valueId": 2643,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Polo",
+          "nameId": 941,
+          "valueId": 5977,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "M",
+          "schema": "UK",
+          "text": "Chest 96-101cm",
+          "sortOrder": 34
+        },
+        {
+          "name": "M",
+          "schema": "US",
+          "text": "Chest 96-101cm",
+          "sortOrder": 34
+        },
+        {
+          "name": "M",
+          "schema": "AU",
+          "text": "Chest 96-101cm",
+          "sortOrder": 34
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "UK",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "US",
+          "sortOrder": 160
+        },
+        {
+          "id": 1848,
+          "name": "M",
+          "schema": "AU",
+          "sortOrder": 160
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "previous": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 290.0,
+      "isPrimary": true,
+      "navigateUrl": "/allsaints/all-saints-fight-club-polo/prd/1217514",
+      "isAvailable": true
+    },
+    {
+      "id": 1217515,
+      "colourCode": "WH1",
+      "sku": "YBVAP1217515",
+      "colour": "White",
+      "attributes": [
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Polo Shirts",
+          "nameId": 900,
+          "valueId": 2212,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan-june",
+          "nameId": 944,
+          "valueId": 2643,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Men's medium",
+          "nameId": 956,
+          "valueId": 2680,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "MALE MODELS",
+          "value": "Tbc",
+          "nameId": 951,
+          "valueId": 2892,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:41.257Z"
+        },
+        {
+          "name": "NECKLINE",
+          "value": "Polo",
+          "nameId": 941,
+          "valueId": 5977,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "L",
+          "schema": "UK",
+          "text": "Chest 101-106cm",
+          "sortOrder": 35
+        },
+        {
+          "name": "L",
+          "schema": "US",
+          "text": "Chest 101-106cm",
+          "sortOrder": 35
+        },
+        {
+          "name": "L",
+          "schema": "AU",
+          "text": "Chest 101-106cm",
+          "sortOrder": 35
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "UK",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "US",
+          "sortOrder": 161
+        },
+        {
+          "id": 1943,
+          "name": "L",
+          "schema": "AU",
+          "sortOrder": 161
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "previous": {
+          "value": 40.0,
+          "text": "£40.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 290.0,
+      "isPrimary": true,
+      "navigateUrl": "/allsaints/all-saints-fight-club-polo/prd/1217515",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/white/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/white/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/white/image1l.jpg",
+        "size": "l",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/white/image1xl.jpg",
+        "size": "s",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/white/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/y/71/724/1217512/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/1217512-4-100601034040.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/all-saints-fight-club-polo/1217512-1-white",
+        "colourCode": "WH1",
+        "colour": "White",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/all-saints-fight-club-polo/1217512-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/all-saints-fight-club-polo/1217512-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/all-saints-fight-club-polo/1217512-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/all-saints-fight-club-polo/1217512-catwalk-AVS",
+        "colourCode": "WH1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [],
+  "navigateUrl": "/allsaints/all-saints-fight-club-polo/prd/1217512",
+  "statusId": 50000,
+  "divisionId": 5,
+  "isAvailable": true,
+  "dateOnSite": "2011-08-03T14:23:33.31Z",
+  "supplierRef": "FIGHT - CLUB POLO",
+  "lastModified": "2016-10-13T12:46:42.6207636Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "associatedProductGroups": [
+    {
+      "id": 1217512,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 40.0,
+      "text": "£40.00"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}

@@ -1,0 +1,1310 @@
+{
+  "id": 957711,
+  "language": "en-GB",
+  "name": "ASOS Spot Full Skirt Mac",
+  "description": "<ul><li>Lightweight cotton mac coat</li><li>Double breasted button-through front</li><li>Spotted design with adjustable belt</li></ul>",
+  "fabricConstruction": "Woven",
+  "materials": "98% cotton, 2% elastane  lining: 100% polyester    Size 10 length measures 27in (69cm) – side neck to hem    ",
+  "additionalInfo": "98% cotton, 2% elastane\r\nlining: 100% polyester\r\n\r\nSize 10 length measures 27in (69cm) – side neck to hem\r\n\r\n",
+  "brand": {
+    "name": "ASOS",
+    "brandId": 53
+  },
+  "careInfo": "40 degree machine wash",
+  "productCode": "YWCJA957711",
+  "category": "Mac",
+  "categoryId": 551,
+  "department": "Coats & Jackets WO",
+  "departmentId": 40,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 957712,
+      "colourCode": "BE1",
+      "sku": "YWCJA957712",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 6",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "US 2",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "AU 6",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1924,
+          "name": "UK 6",
+          "schema": "UK",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "US 2",
+          "schema": "US",
+          "sortOrder": 13
+        },
+        {
+          "id": 1924,
+          "name": "AU 6",
+          "schema": "AU",
+          "sortOrder": 13
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957712",
+      "isAvailable": true
+    },
+    {
+      "id": 957713,
+      "colourCode": "BE1",
+      "sku": "YWCJA957713",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 8",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 3
+        },
+        {
+          "name": "US 4",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 3
+        },
+        {
+          "name": "AU 8",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 3
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1880,
+          "name": "UK 8",
+          "schema": "UK",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "US 4",
+          "schema": "US",
+          "sortOrder": 20
+        },
+        {
+          "id": 1880,
+          "name": "AU 8",
+          "schema": "AU",
+          "sortOrder": 20
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957713",
+      "isAvailable": true
+    },
+    {
+      "id": 957714,
+      "colourCode": "BE1",
+      "sku": "YWCJA957714",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 10",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 4
+        },
+        {
+          "name": "US 6",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 4
+        },
+        {
+          "name": "AU 10",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 4
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1944,
+          "name": "UK 10",
+          "schema": "UK",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "US 6",
+          "schema": "US",
+          "sortOrder": 27
+        },
+        {
+          "id": 1944,
+          "name": "AU 10",
+          "schema": "AU",
+          "sortOrder": 27
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957714",
+      "isAvailable": true
+    },
+    {
+      "id": 957715,
+      "colourCode": "BE1",
+      "sku": "YWCJA957715",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 12",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 5
+        },
+        {
+          "name": "US 8",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 5
+        },
+        {
+          "name": "AU 12",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 5
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 2077,
+          "name": "UK 12",
+          "schema": "UK",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "US 8",
+          "schema": "US",
+          "sortOrder": 33
+        },
+        {
+          "id": 2077,
+          "name": "AU 12",
+          "schema": "AU",
+          "sortOrder": 33
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": true,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957715",
+      "isAvailable": true
+    },
+    {
+      "id": 957716,
+      "colourCode": "BE1",
+      "sku": "YWCJA957716",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 14",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 6
+        },
+        {
+          "name": "US 10",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 6
+        },
+        {
+          "name": "AU 14",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 6
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1920,
+          "name": "UK 14",
+          "schema": "UK",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "US 10",
+          "schema": "US",
+          "sortOrder": 39
+        },
+        {
+          "id": 1920,
+          "name": "AU 14",
+          "schema": "AU",
+          "sortOrder": 39
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957716",
+      "isAvailable": true
+    },
+    {
+      "id": 957717,
+      "colourCode": "BE1",
+      "sku": "YWCJA957717",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 16",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 7
+        },
+        {
+          "name": "US 12",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 7
+        },
+        {
+          "name": "AU 16",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 7
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1992,
+          "name": "UK 16",
+          "schema": "UK",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "US 12",
+          "schema": "US",
+          "sortOrder": 45
+        },
+        {
+          "id": 1992,
+          "name": "AU 16",
+          "schema": "AU",
+          "sortOrder": 45
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957717",
+      "isAvailable": true
+    },
+    {
+      "id": 957718,
+      "colourCode": "BE1",
+      "sku": "YWCJA957718",
+      "colour": "Stone with black spo",
+      "attributes": [
+        {
+          "name": "NECKLINE",
+          "value": "Cut away collar",
+          "nameId": 941,
+          "valueId": 2475,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Jan/feb",
+          "nameId": 944,
+          "valueId": 2649,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SAMPLE SIZE",
+          "value": "Size 8",
+          "nameId": 956,
+          "valueId": 2676,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "TREND (WOMEN)",
+          "value": "Not Applicable",
+          "nameId": 950,
+          "valueId": 2857,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "FEMALE MODELS",
+          "value": "Amber",
+          "nameId": 952,
+          "valueId": 2997,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "2011-06-10T06:36:46.647Z"
+        },
+        {
+          "name": "PRODUCT DETAIL",
+          "value": "SB",
+          "nameId": 1014,
+          "valueId": 5508,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PATTERN",
+          "value": "Pattern - DO NOT USE",
+          "nameId": 925,
+          "valueId": 5513,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "WEIGHT",
+          "value": "Light",
+          "nameId": 1015,
+          "valueId": 5514,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "UK 18",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 8
+        },
+        {
+          "name": "US 14",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 8
+        },
+        {
+          "name": "AU 18",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 8
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1946,
+          "name": "UK 18",
+          "schema": "UK",
+          "sortOrder": 52
+        },
+        {
+          "id": 1946,
+          "name": "US 14",
+          "schema": "US",
+          "sortOrder": 52
+        },
+        {
+          "id": 1946,
+          "name": "AU 18",
+          "schema": "AU",
+          "sortOrder": 52
+        }
+      ],
+      "isInStock": false,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 32.0,
+          "text": "£32.00"
+        },
+        "previous": {
+          "value": 65.0,
+          "text": "£65.00"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false
+      },
+      "weight": 854.0,
+      "isPrimary": false,
+      "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957718",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/stonewithblackspo/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/stonewithblackspo/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/stonewithblackspo/image1l.jpg",
+        "size": "l",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/stonewithblackspo/image1xl.jpg",
+        "size": "s",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/stonewithblackspo/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image2xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image3xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/1/1/7/7/957711/image4xs.jpg",
+        "size": "xs",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "http://video.asos.com/CatwalkShots/957711-4-100310045008.flv",
+        "colourCode": ""
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-spot-full-skirt-mac/957711-1-stonewithblackspo",
+        "colourCode": "BE1",
+        "colour": "Stone with black spo",
+        "isPrimary": false,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-spot-full-skirt-mac/957711-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-spot-full-skirt-mac/957711-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/asos-spot-full-skirt-mac/957711-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": true,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [
+      {
+        "url": "video.asos-media.com/products/asos-spot-full-skirt-mac/957711-catwalk-AVS",
+        "colourCode": "BE1"
+      }
+    ],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 22176
+    }
+  ],
+  "navigateUrl": "/asos/asos-spot-full-skirt-mac/prd/957711",
+  "statusId": 52000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "0001-01-01T00:00:00",
+  "supplierRef": "tbc",
+  "lastModified": "2016-10-13T14:49:53.0228947Z",
+  "lastTranslationModified": "2016-04-25T00:00:00Z",
+  "associatedProductGroups": [
+    {
+      "id": 957711,
+      "type": "CTL"
+    }
+  ],
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 32.0,
+      "text": "£32.00"
+    },
+    "previous": {
+      "value": 65.0,
+      "text": "£65.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": true,
+    "isOutletPrice": false
+  }
+}

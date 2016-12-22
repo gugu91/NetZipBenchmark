@@ -1,0 +1,335 @@
+{
+  "id": 199450,
+  "language": "en-GB",
+  "name": "Tigi Bed Head Headrush Shine Mist 200ml",
+  "description": "<ul><li> Headrush from Tigi Bed Head - A mist that gives massive shine for glossy, healthy looking hair<br>- Headrush is a lightweight shine spray, which creates glossy hair & emphasises highlights with no hold. <br>- Here, exclusively for you, the team of salon stylists in conjunction with Tigi, demonstrate how to create :<a href=\"http://www.asos.com/pgehtml.aspx?cid=3791\">3 different A-list looks</a><br></li></ul>",
+  "fabricConstruction": "Non Clothing",
+  "brand": {
+    "name": "Tigi Bed Head",
+    "brandId": 3198
+  },
+  "productCode": "KBBHA199450",
+  "category": "Hair",
+  "categoryId": 390,
+  "department": "Beauty WB",
+  "departmentId": 28,
+  "division": "Womenswear",
+  "isReturnable": true,
+  "store": "COM",
+  "isInStock": true,
+  "variants": [
+    {
+      "id": 199451,
+      "colourCode": "NC1",
+      "sku": "KBBHA199451",
+      "colour": "Pink",
+      "attributes": [
+        {
+          "name": "RETURNABLE",
+          "value": "Yes",
+          "nameId": 953,
+          "valueId": 2625,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "SELLING PERIOD",
+          "value": "Flow",
+          "nameId": 944,
+          "valueId": 2658,
+          "isWebRefine": false,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "PRODUCT TYPE",
+          "value": "Beauty",
+          "nameId": 900,
+          "valueId": 4029,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        },
+        {
+          "name": "STYLE",
+          "value": "Hair Styling & Treatments",
+          "nameId": 989,
+          "valueId": 5096,
+          "isWebRefine": true,
+          "languageCode": "en-GB",
+          "lastModified": "0001-01-01T00:00:00"
+        }
+      ],
+      "brandSizes": [
+        {
+          "name": "One Size",
+          "schema": "UK",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "US",
+          "text": "",
+          "sortOrder": 2
+        },
+        {
+          "name": "One Size",
+          "schema": "AU",
+          "text": "",
+          "sortOrder": 2
+        }
+      ],
+      "refinementSizes": [
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "UK",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "US",
+          "sortOrder": 170
+        },
+        {
+          "id": 1917,
+          "name": "One Size",
+          "schema": "AU",
+          "sortOrder": 170
+        }
+      ],
+      "isInStock": true,
+      "isLowInStock": false,
+      "price": {
+        "currency": "GBP",
+        "current": {
+          "value": 17.5,
+          "text": "£17.50"
+        },
+        "previous": {
+          "value": 17.5,
+          "text": "£17.50"
+        },
+        "rrp": {
+          "value": 0.0,
+          "text": "£0.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false
+      },
+      "weight": 193.0,
+      "isPrimary": true,
+      "navigateUrl": "/tigi-bed-head/tigi-bed-head-headrush-shine-mist-200ml/prd/199451",
+      "isAvailable": true
+    }
+  ],
+  "legacyMedia": {
+    "images": [
+      {
+        "url": "http://images.asos-media.com/inv/K/9/231/199450/Pink/image50.jpg",
+        "size": "",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/pink/image1xs.jpg",
+        "size": "xs",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/pink/image1xl.jpg",
+        "size": "s",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/pink/image1l.jpg",
+        "size": "l",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/pink/image1xl.jpg",
+        "size": "xl",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/pink/image1xxl.jpg",
+        "size": "xxl",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image2s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image2xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image2xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image3s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image3xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image3xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image4s.jpg",
+        "size": "s",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image4xl.jpg",
+        "size": "xl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      },
+      {
+        "url": "http://images.asos-media.com/inv/media/0/5/4/9/199450/image4xxl.jpg",
+        "size": "xxl",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-headrush-shine-mist-200ml/199450-1-pink",
+        "colourCode": "NC1",
+        "colour": "Pink",
+        "isPrimary": true,
+        "type": "Standard1"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-headrush-shine-mist-200ml/199450-2",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard2"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-headrush-shine-mist-200ml/199450-3",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard3"
+      },
+      {
+        "url": "s7testing-images.asos-media.com/products/tigi-bed-head-headrush-shine-mist-200ml/199450-4",
+        "colourCode": "",
+        "colour": "",
+        "isPrimary": false,
+        "type": "Standard4"
+      }
+    ],
+    "catwalk": [],
+    "spinSet": []
+  },
+  "webCategoryIds": [
+    {
+      "id": 1314
+    },
+    {
+      "id": 5021
+    },
+    {
+      "id": 13040
+    },
+    {
+      "id": 17305
+    },
+    {
+      "id": 17557
+    },
+    {
+      "id": 18624
+    },
+    {
+      "id": 24615
+    }
+  ],
+  "navigateUrl": "/tigi-bed-head/tigi-bed-head-headrush-shine-mist-200ml/prd/199450",
+  "statusId": 50000,
+  "divisionId": 7,
+  "isAvailable": true,
+  "dateOnSite": "2016-08-02T23:16:17Z",
+  "supplierRef": "61590840353",
+  "lastModified": "2016-10-08T05:27:32.6418106Z",
+  "lastTranslationModified": "2016-08-16T12:22:41.243Z",
+  "price": {
+    "currency": "GBP",
+    "current": {
+      "value": 17.5,
+      "text": "£17.50"
+    },
+    "previous": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "rrp": {
+      "value": 0.0,
+      "text": "£0.00"
+    },
+    "isMarkedDown": false,
+    "isOutletPrice": false
+  }
+}
